@@ -1,0 +1,988 @@
+id,tanggal (WIB),waktu (WIB),lintang,bujur,tingkat kepercayaan,satelit,radius kemungkinan,kecamatan,kabupaten,provinsi,tipe
+3798572,8/1/2023,0:38:58,-6.5527873,108.170517,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3798573,8/1/2023,0:38:58,-6.5485611,108.0944443,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3798591,8/1/2023,0:38:58,-6.98042107,108.6065826,8,snpp,1125,Ciawi Gerbang,Kuningan,Jawa Barat,Cluster
+3798599,8/1/2023,0:38:58,-7.12224483,106.4901276,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3798680,8/1/2023,1:31:36,-6.5495677,108.0947037,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3798682,8/1/2023,1:31:36,-6.70533657,108.400383,8,noaa20,1125,Gempol,Cirebon,Jawa Barat,Cluster
+3798695,8/1/2023,10:02:00,-6.955938816,107.8008499,7,terra,3000,Cimanggung,Sumedang,Jawa Barat,Cluster
+3798696,8/1/2023,10:02:00,-7.052603722,107.7525635,8,terra,3000,Majalaya,Bandung,Jawa Barat,Cluster
+3798979,8/1/2023,12:27:22,-7.0851326,107.8462715,8,noaa20,1280,Leles,Garut,Jawa Barat,Cluster
+3798980,8/1/2023,12:27:22,-6.949029682,108.7582855,8,noaa20,1500,Pasaleman,Cirebon,Jawa Barat,Cluster
+3798982,8/1/2023,12:27:22,-6.6028142,108.0408402,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3799623,8/1/2023,13:20:01,-7.36478615,106.7210083,8,snpp,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3799625,8/1/2023,13:20:01,-7.23487759,106.4478798,8,snpp,1280,Cilacap,Sukabumi,Jawa Barat,Cluster
+3799626,8/1/2023,13:20:01,-7.08793211,107.3594055,8,snpp,1125,Gununghalu,Bandung Barat,Jawa Barat,Cluster
+3799627,8/1/2023,13:20:01,-7.178361655,106.5690575,8,snpp,1280,Ciemas,Sukabumi,Jawa Barat,Cluster
+3799629,8/1/2023,13:20:01,-7.02362776,107.3639145,8,snpp,1125,Gununghalu,Bandung Barat,Jawa Barat,Cluster
+3799630,8/1/2023,13:20:01,-6.79777479,108.6460953,7,snpp,1125,Pangenan,Cirebon,Jawa Barat,Cluster
+3799631,8/1/2023,13:20:01,-6.90091085,107.8720627,8,snpp,1125,Pamulihan,Sumedang,Jawa Barat,Cluster
+3799632,8/1/2023,13:20:01,-7.06975579,106.6145783,8,snpp,1280,Simpenan,Sukabumi,Jawa Barat,Cluster
+3799633,8/1/2023,13:20:01,-6.99882793,107.083992,8,snpp,1125,Campaka,Cianjur,Jawa Barat,Cluster
+3799634,8/1/2023,13:20:01,-7.06877899,106.5998993,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3799635,8/1/2023,13:20:01,-7.05967999,106.6376267,8,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3799636,8/1/2023,13:20:01,-7.0567379,106.6122971,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3799637,8/1/2023,13:20:01,-6.7706399,108.4642563,8,snpp,1125,Sumber,Cirebon,Jawa Barat,Cluster
+3799638,8/1/2023,13:20:01,-7.03817654,106.6450348,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3799639,8/1/2023,13:20:01,-6.76736164,108.2135468,8,snpp,1125,Kasokandel,Majalengka,Jawa Barat,Cluster
+3799640,8/1/2023,13:20:01,-6.72657108,108.0718079,8,snpp,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3799641,8/1/2023,13:20:01,-6.8593092,106.7771149,8,snpp,1125,Ciambar,Sukabumi,Jawa Barat,Cluster
+3799642,8/1/2023,13:20:01,-6.62788272,108.032032,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3799643,8/1/2023,13:20:01,-6.61973906,108.0625,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3799644,8/1/2023,13:20:01,-6.54837942,108.0964203,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3799646,8/1/2023,13:20:01,-6.34452963,107.697319,8,snpp,1125,Ciasem,Subang,Jawa Barat,Cluster
+3799649,8/1/2023,13:20:01,-6.02478075,107.0703049,8,snpp,1125,Muaragembong,Bekasi,Jawa Barat,Cluster
+3801467,8/2/2023,13:50:53,-6.59472847,108.1115265,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3801610,8/3/2023,0:50:55,-6.54835033,108.0941696,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3801611,8/3/2023,0:50:55,-6.50272322,107.5467453,8,noaa20,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3801645,8/3/2023,1:46:23,-6.54502583,108.0934753,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3801652,8/3/2023,9:46:00,-6.972754478,107.6154633,8,terra,3000,Dayeuh Kolot,Bandung,Jawa Barat,Cluster
+3801653,8/3/2023,9:46:00,-7.009923935,107.7469864,8,terra,3000,Solokan Jeruk,Bandung,Jawa Barat,Cluster
+3802000,8/3/2023,12:39:19,-6.424512625,107.7090912,8,snpp,1280,Cikaum,Subang,Jawa Barat,Cluster
+3802002,8/3/2023,12:39:19,-6.44275331,106.4532394,8,snpp,1125,Jasinga,Bogor,Jawa Barat,Cluster
+3802348,8/3/2023,13:31:58,-7.03588724,107.8886643,8,noaa20,1125,Nagreg,Bandung,Jawa Barat,Cluster
+3802349,8/3/2023,13:31:58,-7.1208272,106.5169067,8,noaa20,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3802350,8/3/2023,13:31:58,-7.08904886,106.5540237,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3802351,8/3/2023,13:31:58,-7.05214262,106.6690598,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3802352,8/3/2023,13:31:58,-6.62221766,108.1881104,8,noaa20,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3802353,8/3/2023,13:31:58,-6.54943275,108.0938873,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3802354,8/3/2023,13:31:58,-6.44233894,106.4538651,8,noaa20,1125,Jasinga,Bogor,Jawa Barat,Cluster
+3802589,8/4/2023,13:13:01,-7.4699378,108.6368027,8,noaa20,1125,Banjarsari,Ciamis,Jawa Barat,Cluster
+3802592,8/4/2023,13:13:01,-7.4609127,107.75457,8,noaa20,1125,Pakenjeng,Garut,Jawa Barat,Cluster
+3802599,8/4/2023,13:13:01,-6.941411735,108.7309914,8,noaa20,1280,Pasaleman,Cirebon,Jawa Barat,Cluster
+3802600,8/4/2023,13:13:01,-7.26074123,106.5233002,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3802601,8/4/2023,13:13:01,-7.207420585,106.7159882,8,noaa20,1280,Kalibunder,Sukabumi,Jawa Barat,Cluster
+3802602,8/4/2023,13:13:01,-7.04827452,107.7462769,7,noaa20,1125,Majalaya,Bandung,Jawa Barat,Cluster
+3802603,8/4/2023,13:13:01,-7.00415754,107.5443268,8,noaa20,1125,Katapang,Bandung,Jawa Barat,Cluster
+3802604,8/4/2023,13:13:01,-7.152786733,106.4571457,8,noaa20,1399,Ciemas,Sukabumi,Jawa Barat,Cluster
+3802605,8/4/2023,13:13:01,-7.08562469,106.5682297,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3802606,8/4/2023,13:13:01,-6.82112312,108.2173843,8,noaa20,1125,Majalengka,Majalengka,Jawa Barat,Cluster
+3802607,8/4/2023,13:13:01,-7.04862261,106.6548767,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3802608,8/4/2023,13:13:01,-6.80930662,107.1482697,8,noaa20,1125,Cianjur,Cianjur,Jawa Barat,Cluster
+3802609,8/4/2023,13:13:01,-6.623327495,108.1678925,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3802610,8/4/2023,13:13:01,-6.602939287,108.1423874,8,noaa20,1399,Kertajati,Majalengka,Jawa Barat,Cluster
+3802611,8/4/2023,13:13:01,-6.61597157,107.2602768,8,noaa20,1280,Sukasari,Cianjur,Jawa Barat,Cluster
+3802612,8/4/2023,13:13:01,-6.44497824,107.6763535,8,noaa20,1125,Purwadadi,Subang,Jawa Barat,Cluster
+3802614,8/4/2023,13:13:01,-6.21679449,106.9810333,8,noaa20,1125,Medan Satria,Bekasi,Jawa Barat,Cluster
+3803128,8/4/2023,12:20:24,-6.94580269,108.7295456,8,snpp,1125,Pasaleman,Cirebon,Jawa Barat,Cluster
+3803130,8/4/2023,12:20:24,-6.624958353,108.1679764,8,snpp,1399,Kertajati,Majalengka,Jawa Barat,Cluster
+3803431,8/4/2023,1:26:02,-6.5478425,108.0947495,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3803433,8/4/2023,1:26:02,-6.57006502,108.1027603,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3803434,8/4/2023,1:26:02,-6.61903572,108.1488571,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3803592,8/4/2023,0:32:00,-6.35075665,106.9655533,8,noaa20,1125,Gunungputri,Bogor,Jawa Barat,Cluster
+3803593,8/4/2023,0:32:00,-6.5486908,108.0925522,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3803594,8/4/2023,0:32:00,-6.57197809,108.1016007,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3803595,8/4/2023,0:32:00,-6.61862087,108.1488571,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3803619,8/4/2023,0:32:00,-7.06004572,106.6064911,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3803688,8/5/2023,0:14:30,-6.55040359,108.0944367,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3803777,8/5/2023,1:05:43,-6.31334019,108.0215988,8,snpp,1125,Patrol,Indramayu,Jawa Barat,Cluster
+3803780,8/5/2023,1:05:43,-6.54799509,108.0953522,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3803781,8/5/2023,1:05:43,-6.594666,108.2421722,8,snpp,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3803790,8/5/2023,1:05:43,-6.92494202,108.5561752,8,snpp,1125,Japara,Kuningan,Jawa Barat,Cluster
+3804454,8/5/2023,12:52:42,-7.05795431,108.7283325,8,noaa20,1125,Cibeureum,Kuningan,Jawa Barat,Cluster
+3804456,8/5/2023,12:52:42,-7.02699614,107.6462097,8,noaa20,1125,Baleendah,Bandung,Jawa Barat,Cluster
+3804457,8/5/2023,12:52:42,-6.76031256,108.5704956,8,noaa20,1125,Mundu,Cirebon,Jawa Barat,Cluster
+3804459,8/5/2023,12:52:42,-6.66501355,107.8219261,8,noaa20,1280,Cijambe,Subang,Jawa Barat,Cluster
+3804460,8/5/2023,12:52:42,-6.57212973,108.2680435,8,noaa20,1125,Bagodua,Indramayu,Jawa Barat,Cluster
+3804461,8/5/2023,12:52:42,-6.5653491,108.1206131,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3804462,8/5/2023,12:52:42,-6.58400822,107.8167191,8,noaa20,1125,Cibogo,Subang,Jawa Barat,Cluster
+3804463,8/5/2023,12:52:42,-6.51612425,106.9731979,8,noaa20,1125,Klapanunggal,Bogor,Jawa Barat,Cluster
+3804464,8/5/2023,12:52:42,-6.37735653,107.5144196,8,noaa20,1125,Jatisari,Karawang,Jawa Barat,Cluster
+3805238,8/5/2023,13:45:19,-7.32266903,106.4078827,8,snpp,1280,Cilacap,Sukabumi,Jawa Barat,Cluster
+3805239,8/5/2023,13:45:19,-7.15935516,106.5790253,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3805240,8/5/2023,13:45:19,-7.05935812,106.6661034,8,snpp,1280,Simpenan,Sukabumi,Jawa Barat,Cluster
+3805241,8/5/2023,13:45:19,-7.04877806,106.5970001,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3805242,8/5/2023,13:45:19,-6.66630173,108.362381,8,snpp,1125,Susukan,Cirebon,Jawa Barat,Cluster
+3805243,8/5/2023,13:45:19,-6.663735233,107.819959,8,snpp,1399,Cijambe,Subang,Jawa Barat,Cluster
+3805244,8/5/2023,13:45:19,-6.59064603,108.1449013,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3805664,8/6/2023,0:45:22,-6.16255045,107.2923203,8,snpp,1125,Rengasdengklok,Karawang,Jawa Barat,Cluster
+3805666,8/6/2023,0:45:22,-6.40522099,108.423378,8,snpp,1125,Juntiyuat,Indramayu,Jawa Barat,Cluster
+3805669,8/6/2023,0:45:22,-6.35335302,106.9649963,8,snpp,1125,Gunungputri,Bogor,Jawa Barat,Cluster
+3805670,8/6/2023,0:45:22,-6.54818916,108.0937576,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3805683,8/6/2023,0:45:22,-6.911551,108.6074219,8,snpp,1125,Ciawi Gerbang,Kuningan,Jawa Barat,Cluster
+3805732,8/6/2023,1:37:59,-6.52991676,108.2458115,8,noaa20,1125,Bangodua,Indramayu,Jawa Barat,Cluster
+3805733,8/6/2023,1:37:59,-6.54544544,108.0943375,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3805734,8/6/2023,1:37:59,-6.57646036,108.1140595,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3805735,8/6/2023,1:37:59,-6.70668793,108.4020615,8,noaa20,1125,Gempol,Cirebon,Jawa Barat,Cluster
+3806513,8/6/2023,13:26:23,-7.15966558,106.6870728,8,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3806514,8/6/2023,13:26:23,-7.10021901,106.530983,8,snpp,1280,Simpenan,Sukabumi,Jawa Barat,Cluster
+3806515,8/6/2023,13:26:23,-7.05192375,106.6632919,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3807115,8/7/2023,0:26:26,-6.54797506,108.0935593,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3807190,8/7/2023,1:19:04,-6.54830432,108.0952187,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3808288,8/7/2023,13:06:04,-7.31173706,106.3854446,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3808289,8/7/2023,13:06:04,-7.04849482,107.7434883,7,snpp,1280,Majalaya,Bandung,Jawa Barat,Cluster
+3808290,8/7/2023,13:06:04,-7.18466139,106.7217026,8,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3808291,8/7/2023,13:06:04,-7.17867136,106.686882,8,snpp,1125,Cimanggu,Sukabumi,Jawa Barat,Cluster
+3808292,8/7/2023,13:06:04,-7.00628662,107.7430267,8,snpp,1125,Solokan Jeruk,Bandung,Jawa Barat,Cluster
+3808293,8/7/2023,13:06:04,-7.16491127,106.551384,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3808295,8/7/2023,13:06:04,-7.1484499,106.5885696,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3808297,8/7/2023,13:06:04,-6.79507542,108.6284638,8,snpp,1125,Astanajapura,Cirebon,Jawa Barat,Cluster
+3808298,8/7/2023,13:06:04,-6.92707777,107.6932449,8,snpp,1125,Cinambo,Bandung,Jawa Barat,Cluster
+3808299,8/7/2023,13:06:04,-6.93892384,107.2721024,8,snpp,1125,Rongga,Bandung Barat,Jawa Barat,Cluster
+3808300,8/7/2023,13:06:04,-6.94165134,107.2034531,8,snpp,1125,Cibeber,Cianjur,Jawa Barat,Cluster
+3808301,8/7/2023,13:06:04,-6.92717266,107.2541504,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3808302,8/7/2023,13:06:04,-7.0138154,106.6489334,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3808303,8/7/2023,13:06:04,-6.92052722,107.2489357,8,snpp,1280,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3808304,8/7/2023,13:06:04,-6.77184582,108.1982956,7,snpp,1125,Kasokandel,Majalengka,Jawa Barat,Cluster
+3808305,8/7/2023,13:06:04,-6.79571629,107.944603,8,snpp,1125,Cimalaka,Sumedang,Jawa Barat,Cluster
+3808306,8/7/2023,13:06:04,-6.8882823,107.2472305,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3808307,8/7/2023,13:06:04,-6.7470994,108.1312866,8,snpp,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3808308,8/7/2023,13:06:04,-6.732014973,108.1079509,8,snpp,1399,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3808309,8/7/2023,13:06:04,-6.68897343,108.3598404,7,snpp,1125,Sumber Jaya,Majalengka,Jawa Barat,Cluster
+3808310,8/7/2023,13:06:04,-6.6680603,108.0781097,8,snpp,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3808311,8/7/2023,13:06:04,-6.66291142,107.7344666,8,snpp,1125,Jalancagak,Subang,Jawa Barat,Cluster
+3808312,8/7/2023,13:06:04,-6.50562477,107.5020218,8,snpp,1125,Campaka,Purwakarta,Jawa Barat,Cluster
+3808313,8/7/2023,13:06:04,-6.26764727,107.2556534,7,snpp,1125,Kedungwaringin,Bekasi,Jawa Barat,Cluster
+3808314,8/7/2023,13:06:04,-6.25962591,107.0434265,7,snpp,1125,Tambun Selatan,Bekasi,Jawa Barat,Cluster
+3808904,8/7/2023,13:58:42,-6.5526104,108.0770798,8,noaa20,1125,Kroya,Indramayu,Jawa Barat,Cluster
+3808980,8/8/2023,0:08:56,-6.547834877,108.0953471,8,snpp,1399,Terisi,Indramayu,Jawa Barat,Cluster
+3809055,8/8/2023,0:58:43,-6.54704618,108.0947342,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3809056,8/8/2023,0:58:43,-6.50105238,107.5477142,8,noaa20,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3809057,8/8/2023,0:58:43,-6.57242107,107.9099426,8,noaa20,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3809094,8/8/2023,1:54:13,-6.546144245,108.0937882,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3809095,8/8/2023,1:54:13,-6.46100187,107.2124176,8,snpp,1125,Bojongmangu,Bekasi,Jawa Barat,Cluster
+3809118,8/8/2023,9:51:00,-6.907379627,107.5511703,7,terra,3000,Cimahi Selatan,Bandung,Jawa Barat,Cluster
+3809119,8/8/2023,9:51:00,-6.927839279,107.696167,7,terra,3000,Cinambo,Bandung,Jawa Barat,Cluster
+3809120,8/8/2023,9:51:00,-6.949343204,107.5395203,8,terra,3000,Margaasih,Bandung,Jawa Barat,Cluster
+3809121,8/8/2023,9:51:00,-6.970323086,107.6207962,8,terra,3000,Dayeuh Kolot,Bandung,Jawa Barat,Cluster
+3809122,8/8/2023,9:51:00,-7.006964207,107.7436371,8,terra,3000,Solokan Jeruk,Bandung,Jawa Barat,Cluster
+3809123,8/8/2023,9:51:00,-7.120061398,107.8954239,8,terra,3000,Leles,Garut,Jawa Barat,Cluster
+3809686,8/8/2023,12:45:43,-7.22433805,106.4375458,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3809687,8/8/2023,12:45:43,-7.1093936,106.534935,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3809690,8/8/2023,12:45:43,-6.61434603,108.0779114,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3810145,8/8/2023,13:38:21,-7.39006901,106.7021103,8,noaa20,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3810146,8/8/2023,13:38:21,-6.78145409,108.5275574,8,noaa20,1125,Beber,Cirebon,Jawa Barat,Cluster
+3810147,8/8/2023,13:38:21,-6.96656275,107.1972656,8,noaa20,1125,Rongga,Bandung Barat,Jawa Barat,Cluster
+3810148,8/8/2023,13:38:21,-7.05989504,106.606102,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3810149,8/8/2023,13:38:21,-7.03746939,106.6676254,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3810150,8/8/2023,13:38:21,-6.910489555,107.2991028,8,noaa20,1280,Rongga,Bandung Barat,Jawa Barat,Cluster
+3810518,8/9/2023,0:38:23,-6.54680014,108.0955505,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3810543,8/9/2023,0:38:23,-6.99752665,107.7857513,8,noaa20,1125,Rancaekek,Bandung,Jawa Barat,Cluster
+3810593,8/9/2023,1:32:26,-6.54685831,108.0921631,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3810595,8/9/2023,1:32:26,-6.82458735,108.3683701,8,snpp,1125,Rajagaluh,Majalengka,Jawa Barat,Cluster
+3810938,8/9/2023,12:26:47,-6.63024092,107.999424,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3810939,8/9/2023,12:26:47,-6.6053679,108.1388206,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3810941,8/9/2023,12:26:47,-6.580088375,108.1192932,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3811405,8/9/2023,13:19:26,-7.32918501,106.9791184,8,noaa20,1125,Leles,Cianjur,Jawa Barat,Cluster
+3811407,8/9/2023,13:19:26,-7.00652838,107.9346695,7,noaa20,1125,Baluburlimbangan,Garut,Jawa Barat,Cluster
+3811408,8/9/2023,13:19:26,-7.18459558,106.7245483,8,noaa20,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3811409,8/9/2023,13:19:26,-7.17279053,106.6908646,8,noaa20,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3811410,8/9/2023,13:19:26,-7.20501852,106.4443779,8,noaa20,1280,Cilacap,Sukabumi,Jawa Barat,Cluster
+3811411,8/9/2023,13:19:26,-6.65338182,108.3391953,8,noaa20,1125,Ligung,Majalengka,Jawa Barat,Cluster
+3811412,8/9/2023,13:19:26,-6.608991625,108.1407852,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3811413,8/9/2023,13:19:26,-6.63257504,108.0001755,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3811414,8/9/2023,13:19:26,-6.54755259,108.0948029,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3811415,8/9/2023,13:19:26,-6.59159851,107.7412643,8,noaa20,1125,Subang,Subang,Jawa Barat,Cluster
+3811416,8/9/2023,13:19:26,-6.52601528,107.8308411,8,noaa20,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3811417,8/9/2023,13:19:26,-6.50727129,106.9618073,8,noaa20,1125,Klapanunggal,Bogor,Jawa Barat,Cluster
+3811418,8/9/2023,13:19:26,-6.40255213,107.4018097,8,noaa20,1125,Purwasari,Karawang,Jawa Barat,Cluster
+3811419,8/9/2023,13:19:26,-6.34638309,107.6994553,8,noaa20,1125,Ciasem,Subang,Jawa Barat,Cluster
+3811943,8/10/2023,0:19:27,-6.20114279,107.1020279,8,noaa20,1125,Cibitung,Bekasi,Jawa Barat,Cluster
+3811946,8/10/2023,0:19:27,-6.54755521,108.0939407,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3811948,8/10/2023,0:19:27,-6.59695927,108.0642878,8,noaa20,1399,Terisi,Indramayu,Jawa Barat,Cluster
+3812047,8/10/2023,1:12:05,-6.20333672,107.1028366,8,snpp,1125,Cibitung,Bekasi,Jawa Barat,Cluster
+3812048,8/10/2023,1:12:05,-6.3186636,106.9294434,8,snpp,1125,Pondok Melati,Bekasi,Jawa Barat,Cluster
+3812049,8/10/2023,1:12:05,-6.547564745,108.0944443,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3812050,8/10/2023,1:12:05,-6.50226498,107.5472107,8,snpp,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3812051,8/10/2023,1:12:05,-6.59629726,108.0656052,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3812054,8/10/2023,1:12:05,-6.76369619,108.5937042,8,snpp,1125,Mundu,Cirebon,Jawa Barat,Cluster
+3812077,8/10/2023,9:40:00,-6.592132092,108.1574326,8,terra,3000,Cikedung,Indramayu,Jawa Barat,Cluster
+3812712,8/10/2023,13:00:29,-7.116743448,107.8898106,8,noaa20,1500,Leles,Garut,Jawa Barat,Cluster
+3812715,8/10/2023,13:00:29,-7.16461849,106.6640015,8,noaa20,1125,Waluran,Sukabumi,Jawa Barat,Cluster
+3812716,8/10/2023,13:00:29,-7.01633072,107.6312408,7,noaa20,1125,Baleendah,Bandung,Jawa Barat,Cluster
+3812717,8/10/2023,13:00:29,-6.96475458,107.8053513,8,noaa20,1125,Cimanggung,Sumedang,Jawa Barat,Cluster
+3812718,8/10/2023,13:00:29,-6.99826336,107.547081,8,noaa20,1125,Katapang,Bandung,Jawa Barat,Cluster
+3812719,8/10/2023,13:00:29,-6.97366858,107.6916657,7,noaa20,1125,Bojongsoang,Bandung,Jawa Barat,Cluster
+3812720,8/10/2023,13:00:29,-6.93497801,107.6994476,7,noaa20,1125,Panyileukan,Bandung,Jawa Barat,Cluster
+3812721,8/10/2023,13:00:29,-6.9468894,107.5351791,8,noaa20,1125,Margaasih,Bandung,Jawa Barat,Cluster
+3812722,8/10/2023,13:00:29,-6.67359447,108.3682632,7,noaa20,1125,Susukan,Cirebon,Jawa Barat,Cluster
+3812723,8/10/2023,13:00:29,-6.692809105,108.1617508,7,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3812724,8/10/2023,13:00:29,-6.69727755,108.0804749,7,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3812725,8/10/2023,13:00:29,-6.74265385,107.3861466,8,noaa20,1125,Cipeundeuy,Bandung Barat,Jawa Barat,Cluster
+3812726,8/10/2023,13:00:29,-6.59771514,108.1088562,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3812727,8/10/2023,13:00:29,-6.60255432,108.0124435,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3812728,8/10/2023,13:00:29,-6.60984993,107.885437,8,noaa20,1125,Surian,Sumedang,Jawa Barat,Cluster
+3812729,8/10/2023,13:00:29,-6.591132165,107.9767151,8,noaa20,1280,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3812730,8/10/2023,13:00:29,-6.54384327,108.0883331,7,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3812731,8/10/2023,13:00:29,-6.52214336,108.0980301,7,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3812732,8/10/2023,13:00:29,-6.50714445,107.5025444,8,noaa20,1280,Campaka,Purwakarta,Jawa Barat,Cluster
+3812733,8/10/2023,13:00:29,-6.48171139,107.6370468,7,noaa20,1125,Kalijati,Subang,Jawa Barat,Cluster
+3812734,8/10/2023,13:00:29,-6.45938683,107.5582275,8,noaa20,1125,Pabuaran,Subang,Jawa Barat,Cluster
+3812735,8/10/2023,13:00:29,-6.45138025,107.5615006,7,noaa20,1125,Pabuaran,Subang,Jawa Barat,Cluster
+3812737,8/10/2023,13:00:29,-6.36821413,107.3617935,8,noaa20,1125,Klari,Karawang,Jawa Barat,Cluster
+3812739,8/10/2023,13:00:29,-6.26745176,107.2572098,8,noaa20,1125,Kedungwaringin,Bekasi,Jawa Barat,Cluster
+3813567,8/10/2023,13:23:00,-6.601677418,108.1032562,8,aqua,3000,Kertajati,Majalengka,Jawa Barat,Cluster
+3813580,8/10/2023,13:51:43,-7.29768229,107.8589706,8,snpp,1125,Bayongbong,Garut,Jawa Barat,Cluster
+3813581,8/10/2023,13:51:43,-6.95524549,108.3414841,8,snpp,1125,Pembantu Banjaran,Majalengka,Jawa Barat,Cluster
+3813582,8/10/2023,13:51:43,-6.939509155,107.2207871,8,snpp,1280,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3813583,8/10/2023,13:51:43,-6.597742915,108.1078968,8,snpp,1500,Kertajati,Majalengka,Jawa Barat,Cluster
+3813584,8/10/2023,13:51:43,-6.45125341,107.5611191,8,snpp,1125,Pabuaran,Subang,Jawa Barat,Cluster
+3813585,8/10/2023,13:51:43,-6.526136635,106.9380035,8,snpp,1280,Klapanunggal,Bogor,Jawa Barat,Cluster
+3813826,8/11/2023,0:51:44,-6.37331676,107.7207947,8,snpp,1125,Cikaum,Subang,Jawa Barat,Cluster
+3813828,8/11/2023,0:51:44,-6.54936457,108.094635,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3813829,8/11/2023,0:51:44,-6.50802612,107.7926865,8,snpp,1125,Pagaden,Subang,Jawa Barat,Cluster
+3813830,8/11/2023,0:51:44,-6.60096025,108.1030884,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3813886,8/11/2023,1:47:14,-6.54789758,108.0937462,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3813887,8/11/2023,1:47:14,-6.50039434,107.5490723,8,noaa20,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3813888,8/11/2023,1:47:14,-6.45955992,107.212822,8,noaa20,1125,Bojongmangu,Bekasi,Jawa Barat,Cluster
+3814153,8/11/2023,12:38:44,-7.50022125,107.7319489,8,noaa20,1125,Cikelet,Garut,Jawa Barat,Cluster
+3814172,8/11/2023,12:38:44,-6.96057844,108.6691055,8,noaa20,1125,Cidahu,Kuningan,Jawa Barat,Cluster
+3814173,8/11/2023,12:38:44,-7.210413362,106.6684799,8,noaa20,1588,Jampang Kulon,Sukabumi,Jawa Barat,Cluster
+3814174,8/11/2023,12:38:44,-7.02609634,106.7926407,8,noaa20,1125,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3814178,8/11/2023,12:38:44,-6.5641613,108.1480331,8,noaa20,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3814179,8/11/2023,12:38:44,-6.55150795,108.0969544,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3814183,8/11/2023,12:38:44,-6.419949434,107.7157883,8,noaa20,1588,Cikaum,Subang,Jawa Barat,Cluster
+3814184,8/11/2023,12:38:44,-6.43754101,107.4142151,8,noaa20,1125,Klari,Karawang,Jawa Barat,Cluster
+3814482,8/11/2023,13:32:47,-7.47152424,108.5851898,8,snpp,1125,Banjarsari,Ciamis,Jawa Barat,Cluster
+3814485,8/11/2023,13:32:47,-7.44955587,107.4164352,8,snpp,1125,Cidaun,Cianjur,Jawa Barat,Cluster
+3814490,8/11/2023,13:32:47,-7.28808975,106.4448891,8,snpp,1280,Cilacap,Sukabumi,Jawa Barat,Cluster
+3814491,8/11/2023,13:32:47,-7.261904,106.5248222,8,snpp,1280,Waluran,Sukabumi,Jawa Barat,Cluster
+3814492,8/11/2023,13:32:47,-7.20915127,106.6694183,8,snpp,1125,Jampang Kulon,Sukabumi,Jawa Barat,Cluster
+3814493,8/11/2023,13:32:47,-6.86291218,108.7800598,8,snpp,1125,Pabedilan,Cirebon,Jawa Barat,Cluster
+3814494,8/11/2023,13:32:47,-7.15820312,106.6390991,8,snpp,1125,Waluran,Sukabumi,Jawa Barat,Cluster
+3814495,8/11/2023,13:32:47,-7.11767292,106.6335373,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3814496,8/11/2023,13:32:47,-7.09339571,106.7167969,7,snpp,1125,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3814497,8/11/2023,13:32:47,-6.75802803,108.5284195,8,snpp,1125,Talun,Cirebon,Jawa Barat,Cluster
+3814498,8/11/2023,13:32:47,-7.022687117,106.7923457,8,snpp,1399,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3814499,8/11/2023,13:32:47,-6.8082943,108.0985947,8,snpp,1125,Cadasngampar,Sumedang,Jawa Barat,Cluster
+3814500,8/11/2023,13:32:47,-7.03799295,106.6432877,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3814501,8/11/2023,13:32:47,-7.0395565,106.6103897,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3814502,8/11/2023,13:32:47,-6.61508083,108.083725,7,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3814503,8/11/2023,13:32:47,-6.56858206,108.2419663,7,snpp,1125,Bagodua,Indramayu,Jawa Barat,Cluster
+3814504,8/11/2023,13:32:47,-6.608167807,107.9675166,8,snpp,1399,Terisi,Indramayu,Jawa Barat,Cluster
+3814505,8/11/2023,13:32:47,-6.5633769,108.1494675,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3814506,8/11/2023,13:32:47,-6.57961607,107.8882217,7,snpp,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3814507,8/11/2023,13:32:47,-6.56209612,107.9470902,8,snpp,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3814508,8/11/2023,13:32:47,-6.50732899,108.0844803,8,snpp,1125,Kroya,Indramayu,Jawa Barat,Cluster
+3814772,8/11/2023,14:05:00,-7.023102522,106.7942009,8,aqua,3414,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3814865,8/12/2023,0:32:50,-6.55216646,108.1846542,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3814866,8/12/2023,0:32:50,-6.54880917,108.0952969,8,snpp,1500,Terisi,Indramayu,Jawa Barat,Cluster
+3814867,8/12/2023,0:32:50,-6.60768056,108.0816078,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3814869,8/12/2023,0:32:50,-6.79638767,108.6210938,8,snpp,1125,Astanajapura,Cirebon,Jawa Barat,Cluster
+3814941,8/12/2023,1:25:27,-6.54693079,108.0949173,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3814944,8/12/2023,1:25:27,-6.918666125,108.594574,8,noaa20,1280,Ciawi Gerbang,Kuningan,Jawa Barat,Cluster
+3815130,8/12/2023,12:19:49,-7.48420382,107.6708984,8,noaa20,1125,Pakenjeng,Garut,Jawa Barat,Cluster
+3815157,8/12/2023,12:19:49,-6.583809375,108.1349716,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3815594,8/12/2023,13:13:52,-7.54659653,107.5310288,8,snpp,1125,Mekarmukti,Garut,Jawa Barat,Cluster
+3815595,8/12/2023,13:13:52,-7.48180795,107.6671486,8,snpp,1280,Pakenjeng,Garut,Jawa Barat,Cluster
+3815605,8/12/2023,13:13:52,-7.33436918,106.9756317,8,snpp,1125,Leles,Cianjur,Jawa Barat,Cluster
+3815607,8/12/2023,13:13:52,-7.35951686,106.6377029,8,snpp,1280,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3815608,8/12/2023,13:13:52,-7.27282906,106.9621658,8,snpp,1125,Cidadap,Sukabumi,Jawa Barat,Cluster
+3815609,8/12/2023,13:13:52,-7.12912083,107.7186508,8,snpp,1125,Pacet,Bandung,Jawa Barat,Cluster
+3815610,8/12/2023,13:13:52,-7.30353403,106.4484634,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3815611,8/12/2023,13:13:52,-7.03083515,107.9484177,7,snpp,1125,Baluburlimbangan,Garut,Jawa Barat,Cluster
+3815612,8/12/2023,13:13:52,-7.02801371,107.8769302,8,snpp,1125,Nagreg,Bandung,Jawa Barat,Cluster
+3815613,8/12/2023,13:13:52,-7.04794931,107.7444305,7,snpp,1125,Majalaya,Bandung,Jawa Barat,Cluster
+3815614,8/12/2023,13:13:52,-6.93626499,108.2149124,8,snpp,1125,Bantarujeg,Majalengka,Jawa Barat,Cluster
+3815615,8/12/2023,13:13:52,-7.00752115,107.7419205,7,snpp,1125,Solokan Jeruk,Bandung,Jawa Barat,Cluster
+3815616,8/12/2023,13:13:52,-7.12999964,106.6785278,8,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3815617,8/12/2023,13:13:52,-7.09166241,106.8427887,8,snpp,1125,Purabaya,Sukabumi,Jawa Barat,Cluster
+3815618,8/12/2023,13:13:52,-7.08799553,106.563736,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3815619,8/12/2023,13:13:52,-7.06754732,106.6318359,7,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3815620,8/12/2023,13:13:52,-7.04957867,106.5646896,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3815621,8/12/2023,13:13:52,-6.90424633,107.3066025,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3815622,8/12/2023,13:13:52,-6.70792198,108.3394013,7,snpp,1125,Leuwi Munding,Majalengka,Jawa Barat,Cluster
+3815623,8/12/2023,13:13:52,-6.69601011,108.0846252,8,snpp,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3815624,8/12/2023,13:13:52,-6.90768194,106.6749954,8,snpp,1125,Cikidang,Sukabumi,Jawa Barat,Cluster
+3815625,8/12/2023,13:13:52,-6.68989086,108.0801544,8,snpp,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3815626,8/12/2023,13:13:52,-6.88263273,106.6337814,8,snpp,1125,Cikidang,Sukabumi,Jawa Barat,Cluster
+3815627,8/12/2023,13:13:52,-6.84422541,106.7761765,8,snpp,1125,Ciambar,Sukabumi,Jawa Barat,Cluster
+3815628,8/12/2023,13:13:52,-6.61363983,108.1574707,7,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3815629,8/12/2023,13:13:52,-6.60292578,108.0768509,7,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3815630,8/12/2023,13:13:52,-6.58542347,108.1701431,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3815631,8/12/2023,13:13:52,-6.56967592,108.2068634,7,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3815632,8/12/2023,13:13:52,-6.60730362,107.8678513,8,snpp,1125,Surian,Sumedang,Jawa Barat,Cluster
+3815634,8/12/2023,13:13:52,-6.53835964,108.2341156,8,snpp,1125,Bangodua,Indramayu,Jawa Barat,Cluster
+3815635,8/12/2023,13:13:52,-6.55413675,108.1298828,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3815636,8/12/2023,13:13:52,-6.54942369,108.0936432,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3815637,8/12/2023,13:13:52,-6.57757568,107.884697,7,snpp,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3815638,8/12/2023,13:13:52,-6.60901594,107.4259262,7,snpp,1125,Sukatani,Purwakarta,Jawa Barat,Cluster
+3815639,8/12/2023,13:13:52,-6.50152111,108.0508804,8,snpp,1125,Kroya,Indramayu,Jawa Barat,Cluster
+3815640,8/12/2023,13:13:52,-6.53160167,107.8419075,8,snpp,1280,Cipunagara,Subang,Jawa Barat,Cluster
+3815643,8/12/2023,13:13:52,-6.43310738,107.4768829,8,snpp,1125,Bungursari,Purwakarta,Jawa Barat,Cluster
+3816335,8/13/2023,10:02:00,-6.622683048,108.0791473,8,terra,3000,Kertajati,Majalengka,Jawa Barat,Cluster
+3816336,8/13/2023,10:02:00,-6.964842319,107.8146973,8,terra,3000,Cimanggung,Sumedang,Jawa Barat,Cluster
+3816337,8/13/2023,10:02:00,-7.048159122,107.7530441,8,terra,3000,Majalaya,Bandung,Jawa Barat,Cluster
+3816913,8/13/2023,12:52:05,-7.028229715,108.7125359,8,snpp,1280,Cimahi,Kuningan,Jawa Barat,Cluster
+3816915,8/13/2023,12:52:05,-7.31753349,106.4213104,7,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3816916,8/13/2023,12:52:05,-7.25362062,106.453537,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3816917,8/13/2023,12:52:05,-7.09310055,107.5631943,8,snpp,1125,Cimaung,Bandung,Jawa Barat,Cluster
+3816918,8/13/2023,12:52:05,-7.03189516,107.9461784,8,snpp,1280,Baluburlimbangan,Garut,Jawa Barat,Cluster
+3816919,8/13/2023,12:52:05,-7.00458956,107.9926224,8,snpp,1125,Selaawi,Garut,Jawa Barat,Cluster
+3816920,8/13/2023,12:52:05,-6.99546146,107.9990082,8,snpp,1125,Selaawi,Garut,Jawa Barat,Cluster
+3816921,8/13/2023,12:52:05,-6.79809618,108.6202698,8,snpp,1125,Astanajapura,Cirebon,Jawa Barat,Cluster
+3816922,8/13/2023,12:52:05,-7.058264495,106.6476059,8,snpp,1280,Lengkong,Sukabumi,Jawa Barat,Cluster
+3816923,8/13/2023,12:52:05,-7.0246191,106.7925415,8,snpp,1125,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3816926,8/13/2023,12:52:05,-6.62672997,108.0651016,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3816927,8/13/2023,12:52:05,-6.6068325,108.1766434,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3816928,8/13/2023,12:52:05,-6.60319901,108.0878601,7,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3816929,8/13/2023,12:52:05,-6.57320142,108.0926437,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3816930,8/13/2023,12:52:05,-6.380004247,107.7247772,8,snpp,1399,Cikaum,Subang,Jawa Barat,Cluster
+3816931,8/13/2023,12:52:05,-6.388523105,107.1641617,8,snpp,1280,Serang Baru,Bekasi,Jawa Barat,Cluster
+3816932,8/13/2023,12:52:05,-6.36500947,107.1271464,8,snpp,1399,Cikarang Selatan,Bekasi,Jawa Barat,Cluster
+3817738,8/13/2023,13:44:44,-7.10655546,108.7505951,8,noaa20,1125,Cibingbin,Kuningan,Jawa Barat,Cluster
+3817739,8/13/2023,13:44:44,-7.40155411,106.7351685,8,noaa20,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3817741,8/13/2023,13:44:44,-6.85525084,108.7714844,8,noaa20,1125,Pabedilan,Cirebon,Jawa Barat,Cluster
+3817742,8/13/2023,13:44:44,-7.23568916,106.4908142,7,noaa20,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3817743,8/13/2023,13:44:44,-7.18699837,106.7222977,8,noaa20,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3817744,8/13/2023,13:44:44,-7.20788765,106.4391022,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3817745,8/13/2023,13:44:44,-7.132546185,106.512989,8,noaa20,1280,Ciemas,Sukabumi,Jawa Barat,Cluster
+3817746,8/13/2023,13:44:44,-6.99581814,106.870018,8,noaa20,1125,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3817747,8/13/2023,13:44:44,-6.83579111,106.7811432,8,noaa20,1125,Ciambar,Sukabumi,Jawa Barat,Cluster
+3817748,8/13/2023,13:44:44,-6.58415318,108.1406632,7,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3817750,8/13/2023,13:44:44,-6.36992216,107.127327,8,noaa20,1125,Serang Baru,Bekasi,Jawa Barat,Cluster
+3818077,8/13/2023,13:53:00,-6.997406006,106.8672104,8,aqua,3414,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3818275,8/14/2023,0:44:45,-6.54891825,108.0938339,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3818276,8/14/2023,0:44:45,-6.57711124,108.1934357,8,noaa20,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3818279,8/14/2023,0:44:45,-6.76462555,108.5328674,8,noaa20,1125,Talun,Cirebon,Jawa Barat,Cluster
+3818300,8/14/2023,0:44:45,-7.143556595,107.8885613,8,noaa20,1280,Banyuresmi,Garut,Jawa Barat,Cluster
+3818342,8/14/2023,1:38:50,-6.54650402,108.0946045,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3818343,8/14/2023,1:38:50,-6.78841496,108.5275192,8,snpp,1125,Beber,Cirebon,Jawa Barat,Cluster
+3818344,8/14/2023,1:38:50,-7.14222145,107.8884659,8,snpp,1125,Leles,Garut,Jawa Barat,Cluster
+3818781,8/14/2023,12:33:09,-7.65342426,107.9652252,8,snpp,1125,Cipatujah,Tasikmalaya,Jawa Barat,Cluster
+3818788,8/14/2023,12:33:09,-7.37500095,107.7900467,8,snpp,1125,Cikajang,Garut,Jawa Barat,Cluster
+3818799,8/14/2023,12:33:09,-6.6148982,108.068718,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3818800,8/14/2023,12:33:09,-6.59380722,108.1813278,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3818801,8/14/2023,12:33:09,-6.588434935,108.139225,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3818803,8/14/2023,12:33:09,-6.54957199,108.0960922,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3819406,8/14/2023,13:25:49,-7.30132198,106.4511337,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3819407,8/14/2023,13:25:49,-7.30801821,106.4078522,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3819408,8/14/2023,13:25:49,-7.25571442,106.4774551,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3819409,8/14/2023,13:25:49,-7.2342968,106.4845009,8,noaa20,1280,Ciemas,Sukabumi,Jawa Barat,Cluster
+3819410,8/14/2023,13:25:49,-7.18433285,106.6623612,8,noaa20,1125,Jampang Kulon,Sukabumi,Jawa Barat,Cluster
+3819411,8/14/2023,13:25:49,-7.15636778,106.7754669,8,noaa20,1125,Pabuaran,Sukabumi,Jawa Barat,Cluster
+3819412,8/14/2023,13:25:49,-7.20771074,106.39888,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3819413,8/14/2023,13:25:49,-6.86613321,108.2456741,8,noaa20,1125,Majalengka,Majalengka,Jawa Barat,Cluster
+3819414,8/14/2023,13:25:49,-6.88356352,107.96698,8,noaa20,1125,Ganeas,Sumedang,Jawa Barat,Cluster
+3819415,8/14/2023,13:25:49,-7.02442503,106.9258804,8,noaa20,1125,Nyalindung,Sukabumi,Jawa Barat,Cluster
+3819416,8/14/2023,13:25:49,-6.97137308,106.9950104,8,noaa20,1125,Gegerbitung,Sukabumi,Jawa Barat,Cluster
+3819417,8/14/2023,13:25:49,-6.97431612,106.976265,8,noaa20,1125,Gegerbitung,Sukabumi,Jawa Barat,Cluster
+3819418,8/14/2023,13:25:49,-6.66552591,108.3763733,7,noaa20,1125,Ciwaringin,Cirebon,Jawa Barat,Cluster
+3819419,8/14/2023,13:25:49,-6.60766427,108.1836802,8,noaa20,1399,Cikedung,Indramayu,Jawa Barat,Cluster
+3819420,8/14/2023,13:25:49,-6.59838295,108.1793009,8,noaa20,1399,Cikedung,Indramayu,Jawa Barat,Cluster
+3819421,8/14/2023,13:25:49,-6.60316563,108.1334839,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3819422,8/14/2023,13:25:49,-6.58724356,108.1397171,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3819423,8/14/2023,13:25:49,-6.58775806,107.9970017,7,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3819425,8/14/2023,13:25:49,-6.540665865,108.150032,8,noaa20,1280,Cikedung,Indramayu,Jawa Barat,Cluster
+3819427,8/14/2023,13:25:49,-6.51321268,108.0631409,8,noaa20,1125,Kroya,Indramayu,Jawa Barat,Cluster
+3819431,8/14/2023,13:25:49,-6.48465633,107.2581863,8,noaa20,1125,Tegal Waru,Karawang,Jawa Barat,Cluster
+3819888,8/15/2023,0:25:50,-6.54919481,108.0946503,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3819889,8/15/2023,0:25:50,-6.57729578,108.0999184,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3819890,8/15/2023,0:25:50,-6.501104595,107.5477982,8,noaa20,1280,Cibatu,Purwakarta,Jawa Barat,Cluster
+3819900,8/15/2023,0:25:50,-6.78626251,108.1872253,8,noaa20,1125,Kadipaten,Majalengka,Jawa Barat,Cluster
+3819904,8/15/2023,0:25:50,-6.896145105,108.6754875,8,noaa20,1280,Waled,Cirebon,Jawa Barat,Cluster
+3819990,8/15/2023,1:18:29,-6.54978466,108.0934906,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3819991,8/15/2023,1:18:29,-6.59941864,108.0676804,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3819996,8/15/2023,1:18:29,-6.78724957,108.1867981,8,snpp,1125,Kadipaten,Majalengka,Jawa Barat,Cluster
+3820019,8/15/2023,9:44:00,-6.956748962,107.7974014,7,terra,3000,Cimanggung,Sumedang,Jawa Barat,Cluster
+3820021,8/15/2023,9:44:00,-6.968429089,107.61689,8,terra,3000,Dayeuh Kolot,Bandung,Jawa Barat,Cluster
+3820648,8/15/2023,13:05:28,-7.0876174,108.7688675,8,noaa20,1280,Cibingbin,Kuningan,Jawa Barat,Cluster
+3820649,8/15/2023,13:05:28,-7.19414616,107.9114914,8,noaa20,1125,Garut Kota,Garut,Jawa Barat,Cluster
+3820650,8/15/2023,13:05:28,-6.96543884,108.7387161,8,noaa20,1125,Pasaleman,Cirebon,Jawa Barat,Cluster
+3820651,8/15/2023,13:05:28,-6.95386171,108.7477264,8,noaa20,1125,Pasaleman,Cirebon,Jawa Barat,Cluster
+3820652,8/15/2023,13:05:28,-7.20360136,107.0195923,8,noaa20,1125,Kadupandak,Cianjur,Jawa Barat,Cluster
+3820654,8/15/2023,13:05:28,-7.06568384,107.6691208,8,noaa20,1125,Arjasari,Bandung,Jawa Barat,Cluster
+3820655,8/15/2023,13:05:28,-7.03444433,107.8582153,7,noaa20,1125,Nagreg,Bandung,Jawa Barat,Cluster
+3820656,8/15/2023,13:05:28,-7.04742908,107.7458725,7,noaa20,1125,Majalaya,Bandung,Jawa Barat,Cluster
+3820657,8/15/2023,13:05:28,-7.195945623,106.4216328,8,noaa20,1500,Cilacap,Sukabumi,Jawa Barat,Cluster
+3820659,8/15/2023,13:05:28,-6.97481251,107.6927643,7,noaa20,1125,Bojongsoang,Bandung,Jawa Barat,Cluster
+3820660,8/15/2023,13:05:28,-7.13584423,106.5929642,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3820661,8/15/2023,13:05:28,-6.97265291,107.6122055,7,noaa20,1125,Dayeuh Kolot,Bandung,Jawa Barat,Cluster
+3820662,8/15/2023,13:05:28,-6.78704405,108.5267868,8,noaa20,1125,Beber,Cirebon,Jawa Barat,Cluster
+3820663,8/15/2023,13:05:28,-7.06327248,106.6493454,8,noaa20,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3820664,8/15/2023,13:05:28,-6.77560472,108.5574875,8,noaa20,1125,Mundu,Cirebon,Jawa Barat,Cluster
+3820665,8/15/2023,13:05:28,-6.78611803,108.1650314,8,noaa20,1125,Panyingkiran,Majalengka,Jawa Barat,Cluster
+3820666,8/15/2023,13:05:28,-6.90813017,107.3008423,8,noaa20,1280,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3820667,8/15/2023,13:05:28,-6.91724062,107.2506485,8,noaa20,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3820668,8/15/2023,13:05:28,-6.98226786,106.7288513,8,noaa20,1125,Warung Kiara,Sukabumi,Jawa Barat,Cluster
+3820669,8/15/2023,13:05:28,-6.75041676,108.1265183,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3820670,8/15/2023,13:05:28,-6.70656586,108.340004,7,noaa20,1125,Leuwi Munding,Majalengka,Jawa Barat,Cluster
+3820671,8/15/2023,13:05:28,-6.71158409,108.2950935,7,noaa20,1280,Palasah,Majalengka,Jawa Barat,Cluster
+3820672,8/15/2023,13:05:28,-6.71667528,108.0881882,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3820673,8/15/2023,13:05:28,-6.67369795,108.353302,7,noaa20,1125,Susukan,Cirebon,Jawa Barat,Cluster
+3820674,8/15/2023,13:05:28,-6.66380072,108.3736649,7,noaa20,1125,Susukan,Cirebon,Jawa Barat,Cluster
+3820675,8/15/2023,13:05:28,-6.68852854,108.161438,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3820676,8/15/2023,13:05:28,-6.66562605,108.0362854,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3820677,8/15/2023,13:05:28,-6.5875802,108.1571198,8,noaa20,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3820678,8/15/2023,13:05:28,-6.60152864,108.0633698,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3820679,8/15/2023,13:05:28,-6.574867567,108.1576716,8,noaa20,1399,Cikedung,Indramayu,Jawa Barat,Cluster
+3820680,8/15/2023,13:05:28,-6.56859636,108.1689911,7,noaa20,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3820684,8/15/2023,13:05:28,-6.370536565,107.2475243,8,noaa20,1280,Telukjambe Barat,Karawang,Jawa Barat,Cluster
+3820685,8/15/2023,13:05:28,-6.35705662,107.2063446,8,noaa20,1125,Cikarang Pusat,Bekasi,Jawa Barat,Cluster
+3820686,8/15/2023,13:05:28,-6.282196045,107.122879,8,noaa20,1280,Cikarang Utara,Bekasi,Jawa Barat,Cluster
+3821606,8/15/2023,13:36:00,-7.19907856,106.4137039,8,aqua,3000,Cilacap,Sukabumi,Jawa Barat,Cluster
+3821607,8/15/2023,13:36:00,-6.756392479,108.1235428,8,aqua,3000,Tomo,Sumedang,Jawa Barat,Cluster
+3821608,8/15/2023,13:36:00,-6.37536335,107.2439957,8,aqua,3000,Telukjambe Barat,Karawang,Jawa Barat,Cluster
+3821614,8/15/2023,13:58:05,-6.908712387,107.2985331,8,snpp,1399,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3821615,8/15/2023,13:58:05,-6.95975256,106.9721146,8,snpp,1125,Gegerbitung,Sukabumi,Jawa Barat,Cluster
+3821616,8/15/2023,13:58:05,-6.75120497,108.1257782,8,snpp,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3821677,8/16/2023,0:08:21,-6.547888995,108.094223,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3821758,8/16/2023,0:59:33,-6.6496582,108.3399506,8,snpp,1125,Ligung,Majalengka,Jawa Barat,Cluster
+3821782,8/16/2023,0:59:33,-7.33837962,107.9388695,8,snpp,1280,Salawu,Tasikmalaya,Jawa Barat,Cluster
+3822184,8/16/2023,12:45:07,-7.51748371,107.6689377,8,noaa20,1125,Cikelet,Garut,Jawa Barat,Cluster
+3822204,8/16/2023,12:45:07,-7.09119654,108.7376785,8,noaa20,1125,Cibingbin,Kuningan,Jawa Barat,Cluster
+3822211,8/16/2023,12:45:07,-7.23046827,106.4495163,7,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3822214,8/16/2023,12:45:07,-6.90130138,107.8883667,8,noaa20,1125,Sumedang Selatan,Sumedang,Jawa Barat,Cluster
+3822215,8/16/2023,12:45:07,-7.032411335,106.9041481,8,noaa20,1280,Nyalindung,Sukabumi,Jawa Barat,Cluster
+3822216,8/16/2023,12:45:07,-7.04125786,106.6078644,8,noaa20,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3822217,8/16/2023,12:45:07,-6.82082081,108.1416321,8,noaa20,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3822218,8/16/2023,12:45:07,-6.97768784,106.6380081,8,noaa20,1125,Bantar Gadung,Sukabumi,Jawa Barat,Cluster
+3822221,8/16/2023,12:45:07,-6.66489697,108.0362473,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3822223,8/16/2023,12:45:07,-6.83734655,106.7799912,8,noaa20,1125,Ciambar,Sukabumi,Jawa Barat,Cluster
+3822224,8/16/2023,12:45:07,-6.62537098,108.1893311,8,noaa20,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3822226,8/16/2023,12:45:07,-6.6222043,108.1803665,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3822227,8/16/2023,12:45:07,-6.61672449,107.9636154,8,noaa20,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3822228,8/16/2023,12:45:07,-6.59908867,107.9610214,8,noaa20,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3822229,8/16/2023,12:45:07,-6.5488925,108.0941696,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3822232,8/16/2023,12:45:07,-6.52719069,107.8325577,7,noaa20,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3822233,8/16/2023,12:45:07,-6.422149817,107.7083969,8,noaa20,1399,Cikaum,Subang,Jawa Barat,Cluster
+3822234,8/16/2023,12:45:07,-6.38794136,107.6796341,8,noaa20,1125,Purwadadi,Subang,Jawa Barat,Cluster
+3822891,8/16/2023,13:37:46,-7.49230623,107.6496201,8,snpp,1125,Pakenjeng,Garut,Jawa Barat,Cluster
+3822894,8/16/2023,13:37:46,-6.9540534,108.6786804,8,snpp,1125,Cidahu,Kuningan,Jawa Barat,Cluster
+3822896,8/16/2023,13:37:46,-7.104746343,106.7325287,8,snpp,1399,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3822897,8/16/2023,13:37:46,-6.90104055,107.8870468,8,snpp,1125,Sumedang Selatan,Sumedang,Jawa Barat,Cluster
+3822898,8/16/2023,13:37:46,-7.10514259,106.5243301,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3822899,8/16/2023,13:37:46,-7.03160095,106.9020233,8,snpp,1125,Nyalindung,Sukabumi,Jawa Barat,Cluster
+3822900,8/16/2023,13:37:46,-6.78195429,108.2522507,8,snpp,1125,Kasokandel,Majalengka,Jawa Barat,Cluster
+3822901,8/16/2023,13:37:46,-7.0376811,106.6137848,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3822902,8/16/2023,13:37:46,-6.62259865,108.1882629,8,snpp,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3822903,8/16/2023,13:37:46,-6.60724783,108.2537231,8,snpp,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3822904,8/16/2023,13:37:46,-6.62927628,108.0513344,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3822905,8/16/2023,13:37:46,-6.83536005,106.7805862,8,snpp,1125,Ciambar,Sukabumi,Jawa Barat,Cluster
+3822906,8/16/2023,13:37:46,-6.78525734,106.8083115,8,snpp,1125,Cicurug,Sukabumi,Jawa Barat,Cluster
+3822908,8/16/2023,13:37:46,-6.35101223,107.2064285,8,snpp,1125,Cikarang Pusat,Bekasi,Jawa Barat,Cluster
+3822909,8/16/2023,13:37:46,-6.43199778,106.6276474,8,snpp,1125,Rumpin,Bogor,Jawa Barat,Cluster
+3823456,8/17/2023,0:39:12,-6.54960235,108.0954666,8,snpp,1399,Terisi,Indramayu,Jawa Barat,Cluster
+3823460,8/17/2023,0:39:12,-6.87710953,108.6554947,8,snpp,1280,Karangwareng,Cirebon,Jawa Barat,Cluster
+3823461,8/17/2023,0:39:12,-6.87933159,108.6808701,8,snpp,1125,Karangwareng,Cirebon,Jawa Barat,Cluster
+3823475,8/17/2023,0:39:12,-6.98705769,108.6310196,8,snpp,1125,Cidahu,Kuningan,Jawa Barat,Cluster
+3823478,8/17/2023,0:39:12,-6.88633251,107.6610527,8,snpp,1280,Cibeunying Kidul,Bandung,Jawa Barat,Cluster
+3823483,8/17/2023,0:39:12,-7.03508687,107.767765,8,snpp,1280,Solokan Jeruk,Bandung,Jawa Barat,Cluster
+3823489,8/17/2023,0:39:12,-6.98872042,106.8352737,8,snpp,1125,Cikembar,Sukabumi,Jawa Barat,Cluster
+3823561,8/17/2023,1:31:50,-6.37381172,106.9265747,8,noaa20,1125,Jatisampurna,Bekasi,Jawa Barat,Cluster
+3823562,8/17/2023,1:31:50,-6.5498929,108.0962219,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3823798,8/17/2023,12:26:12,-7.031420073,108.7789764,8,noaa20,1399,Cibingbin,Kuningan,Jawa Barat,Cluster
+3823801,8/17/2023,12:26:12,-6.97410583,108.7505798,8,noaa20,1125,Pasaleman,Cirebon,Jawa Barat,Cluster
+3823808,8/17/2023,12:26:12,-6.64165211,107.9548798,8,noaa20,1125,Buahdua,Sumedang,Jawa Barat,Cluster
+3823811,8/17/2023,12:26:12,-6.58405828,108.0975723,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3824449,8/17/2023,13:18:50,-7.48027992,107.6652908,8,snpp,1125,Pakenjeng,Garut,Jawa Barat,Cluster
+3824461,8/17/2023,13:18:50,-6.98329735,108.6686859,8,snpp,1125,Cidahu,Kuningan,Jawa Barat,Cluster
+3824464,8/17/2023,13:18:50,-6.7623229,108.6535873,8,snpp,1125,Pangenan,Cirebon,Jawa Barat,Cluster
+3824465,8/17/2023,13:18:50,-7.05721188,106.6269302,7,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3824466,8/17/2023,13:18:50,-6.810322525,108.0934277,8,snpp,1500,Cadasngampar,Sumedang,Jawa Barat,Cluster
+3824467,8/17/2023,13:18:50,-6.79111242,108.1538849,8,snpp,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3824468,8/17/2023,13:18:50,-6.93131781,107.2131805,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3824469,8/17/2023,13:18:50,-6.90799713,107.2990646,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3824470,8/17/2023,13:18:50,-6.89263058,107.2432251,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3824471,8/17/2023,13:18:50,-6.73270226,108.1036301,8,snpp,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3824472,8/17/2023,13:18:50,-6.71791935,108.1538925,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3824473,8/17/2023,13:18:50,-6.84359312,107.3293533,8,snpp,1280,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3824474,8/17/2023,13:18:50,-6.66533327,108.0889282,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3824475,8/17/2023,13:18:50,-6.63755322,107.9987793,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3824476,8/17/2023,13:18:50,-6.60461807,108.1658554,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3824477,8/17/2023,13:18:50,-6.601613995,108.015728,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3824478,8/17/2023,13:18:50,-6.58391237,108.0953293,7,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3824479,8/17/2023,13:18:50,-6.58835316,108.0436478,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3824480,8/17/2023,13:18:50,-6.54932117,108.0937729,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3824481,8/17/2023,13:18:50,-6.56497765,107.9247055,7,snpp,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3824482,8/17/2023,13:18:50,-6.50411129,107.8665772,7,snpp,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3824487,8/17/2023,13:18:50,-6.41938019,106.4660873,8,snpp,1125,Jasinga,Bogor,Jawa Barat,Cluster
+3824488,8/17/2023,13:18:50,-6.18211508,107.0525589,7,snpp,1125,Tambun Utara,Bekasi,Jawa Barat,Cluster
+3824490,8/17/2023,13:18:50,-6.06711245,107.0738983,8,snpp,1125,Muaragembong,Bekasi,Jawa Barat,Cluster
+3828385,8/19/2023,13:32:12,-7.46110821,107.3018646,8,noaa20,1125,Cidaun,Cianjur,Jawa Barat,Cluster
+3825804,8/18/2023,12:59:54,-7.056012155,108.4935112,8,snpp,1280,Ciniru,Kuningan,Jawa Barat,Cluster
+3825806,8/18/2023,12:59:54,-7.11623096,107.888382,8,snpp,1125,Leles,Garut,Jawa Barat,Cluster
+3825812,8/18/2023,12:59:54,-6.97271919,107.6892242,7,snpp,1125,Bojongsoang,Bandung,Jawa Barat,Cluster
+3825814,8/18/2023,12:59:54,-6.9040556,107.8654175,8,snpp,1125,Pamulihan,Sumedang,Jawa Barat,Cluster
+3825815,8/18/2023,12:59:54,-7.05245399,106.6466522,8,snpp,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3825816,8/18/2023,12:59:54,-6.99751329,106.8078156,8,snpp,1125,Cikembar,Sukabumi,Jawa Barat,Cluster
+3825817,8/18/2023,12:59:54,-6.79240465,108.2255936,7,snpp,1125,Pembantu Cigasong,Majalengka,Jawa Barat,Cluster
+3825818,8/18/2023,12:59:54,-6.83739901,107.3959732,8,snpp,1125,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3825820,8/18/2023,12:59:54,-6.64249325,108.4014664,8,snpp,1125,Arjawinangun,Cirebon,Jawa Barat,Cluster
+3825821,8/18/2023,12:59:54,-6.57972193,108.2042084,8,snpp,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3825822,8/18/2023,12:59:54,-6.59946537,108.0667114,7,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3825823,8/18/2023,12:59:54,-6.58863688,108.1164169,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3825829,8/18/2023,12:59:54,-6.54815912,106.9673462,8,snpp,1125,Sukamakmur,Bogor,Jawa Barat,Cluster
+3825069,8/18/2023,0:20:17,-6.547767875,108.0947876,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3825075,8/18/2023,0:20:17,-6.75991559,108.1183434,8,snpp,1280,Tomo,Sumedang,Jawa Barat,Cluster
+3825168,8/18/2023,1:11:29,-6.27009296,107.1639328,8,noaa20,1125,Cikarang Utara,Bekasi,Jawa Barat,Cluster
+3825170,8/18/2023,1:11:29,-6.54670286,108.0939713,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3825171,8/18/2023,1:11:29,-6.60913682,108.04776,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3825172,8/18/2023,1:11:29,-6.37334013,106.4524536,8,noaa20,1125,Tenjo,Bogor,Jawa Barat,Cluster
+3825174,8/18/2023,1:11:29,-6.69140387,108.1561813,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3825175,8/18/2023,1:11:29,-6.760356743,108.1180801,8,noaa20,1399,Tomo,Sumedang,Jawa Barat,Cluster
+3826527,8/18/2023,13:51:07,-6.9113636,107.3089981,8,noaa20,1125,Rongga,Bandung Barat,Jawa Barat,Cluster
+3826528,8/18/2023,13:51:07,-6.83612823,107.3969498,8,noaa20,1125,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3826529,8/18/2023,13:51:07,-6.6586628,106.90551,8,noaa20,1125,Cisarua,Bogor,Jawa Barat,Cluster
+3826720,8/19/2023,0:51:08,-6.54803514,108.0942764,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3826722,8/19/2023,0:51:08,-6.510703325,107.7058296,8,noaa20,1280,Kalijati,Subang,Jawa Barat,Cluster
+3826725,8/19/2023,0:51:08,-6.82147694,108.640892,8,noaa20,1280,Astanajapura,Cirebon,Jawa Barat,Cluster
+3826728,8/19/2023,0:51:08,-6.7796545,108.0938873,8,noaa20,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3826739,8/19/2023,0:51:08,-6.81070805,107.2811356,8,noaa20,1125,Ciranjang,Cianjur,Jawa Barat,Cluster
+3826770,8/19/2023,1:46:37,-6.54727983,108.0943527,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3826771,8/19/2023,1:46:37,-6.49850082,107.5481873,8,snpp,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3826772,8/19/2023,1:46:37,-6.45857763,107.2123184,8,snpp,1125,Bojongmangu,Bekasi,Jawa Barat,Cluster
+3826777,8/19/2023,1:46:37,-7.2381506,106.4757614,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3827810,8/19/2023,12:39:33,-7.462943555,107.2997742,8,snpp,1280,Cidaun,Cianjur,Jawa Barat,Cluster
+3827826,8/19/2023,12:39:33,-7.06223154,107.8921433,8,snpp,1125,Kadungora,Garut,Jawa Barat,Cluster
+3827827,8/19/2023,12:39:33,-7.24340439,106.5272675,8,snpp,1125,Waluran,Sukabumi,Jawa Barat,Cluster
+3827828,8/19/2023,12:39:33,-7.19418001,106.8500214,8,snpp,1125,Sagaranten,Sukabumi,Jawa Barat,Cluster
+3827830,8/19/2023,12:39:33,-6.95490742,107.1971207,8,snpp,1125,Cibeber,Cianjur,Jawa Barat,Cluster
+3827831,8/19/2023,12:39:33,-6.94587374,107.223732,8,snpp,1125,Rongga,Bandung Barat,Jawa Barat,Cluster
+3827832,8/19/2023,12:39:33,-6.8940835,107.3293228,8,snpp,1125,Cipongkor,Bandung Barat,Jawa Barat,Cluster
+3827835,8/19/2023,12:39:33,-6.846624375,106.5957642,9,snpp,1280,Kabandungan,Sukabumi,Jawa Barat,Cluster
+3828386,8/19/2023,13:32:12,-7.29652882,106.7615967,8,noaa20,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3828388,8/19/2023,13:32:12,-6.94814348,108.6185074,8,noaa20,1125,Kalimanggis,Kuningan,Jawa Barat,Cluster
+3828389,8/19/2023,13:32:12,-6.91804075,108.2687759,8,noaa20,1125,Bantarujeg,Majalengka,Jawa Barat,Cluster
+3828390,8/19/2023,13:32:12,-6.96363735,106.995285,8,noaa20,1125,Gegerbitung,Sukabumi,Jawa Barat,Cluster
+3828391,8/19/2023,13:32:12,-6.89726067,107.3136978,8,noaa20,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3828946,8/20/2023,0:32:13,-6.3480773,107.0182571,8,noaa20,1280,Setu,Bekasi,Jawa Barat,Cluster
+3828392,8/19/2023,13:32:12,-6.62727261,108.083519,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3828948,8/20/2023,0:32:13,-6.54695845,108.0939484,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3828393,8/19/2023,13:32:12,-6.591195105,108.1978416,8,noaa20,1280,Cikedung,Indramayu,Jawa Barat,Cluster
+3828394,8/19/2023,13:32:12,-6.84671116,106.5994568,8,noaa20,1125,Kabandungan,Sukabumi,Jawa Barat,Cluster
+3828395,8/19/2023,13:32:12,-6.59782124,108.049614,7,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3828396,8/19/2023,13:32:12,-6.54974031,108.0942612,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3830843,8/20/2023,13:49:00,-6.608665466,108.1008682,8,aqua,3000,Kertajati,Majalengka,Jawa Barat,Cluster
+3829037,8/20/2023,1:26:16,-6.54812002,108.0936508,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3829054,8/20/2023,9:51:00,-6.895094872,107.5002365,8,terra,3000,Batujajar,Bandung Barat,Jawa Barat,Cluster
+3829056,8/20/2023,9:51:00,-6.933554649,107.7035675,8,terra,3000,Panyileukan,Bandung,Jawa Barat,Cluster
+3829057,8/20/2023,9:51:00,-6.957170486,107.8012733,8,terra,3414,Cimanggung,Sumedang,Jawa Barat,Cluster
+3830104,8/20/2023,13:13:17,-7.41814899,106.8817749,8,noaa20,1125,Sukasari,Cianjur,Jawa Barat,Cluster
+3830110,8/20/2023,13:13:17,-7.17362404,108.0135651,7,noaa20,1125,Sukawening,Garut,Jawa Barat,Cluster
+3830111,8/20/2023,13:13:17,-7.03383589,108.5983505,8,noaa20,1125,Lebakwangi,Kuningan,Jawa Barat,Cluster
+3830112,8/20/2023,13:13:17,-7.12517023,107.9066238,7,noaa20,1125,Leles,Garut,Jawa Barat,Cluster
+3830113,8/20/2023,13:13:17,-7.01965237,107.9537048,8,noaa20,1125,Baluburlimbangan,Garut,Jawa Barat,Cluster
+3830114,8/20/2023,13:13:17,-7.0476985,107.7454376,7,noaa20,1125,Majalaya,Bandung,Jawa Barat,Cluster
+3830115,8/20/2023,13:13:17,-6.90140772,108.5989151,8,noaa20,1125,Sedong,Cirebon,Jawa Barat,Cluster
+3830116,8/20/2023,13:13:17,-7.00451803,107.9196091,7,noaa20,1125,Baluburlimbangan,Garut,Jawa Barat,Cluster
+3830119,8/20/2023,13:13:17,-6.98825932,107.5543594,7,noaa20,1125,Katapang,Bandung,Jawa Barat,Cluster
+3830120,8/20/2023,13:13:17,-7.11459875,106.5265427,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3830121,8/20/2023,13:13:17,-7.03933048,106.9637528,8,noaa20,1125,Takokak,Cianjur,Jawa Barat,Cluster
+3830122,8/20/2023,13:13:17,-6.93130636,107.2113495,8,noaa20,1280,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3830123,8/20/2023,13:13:17,-6.88654757,107.3283768,8,noaa20,1125,Haurwangi,Cianjur,Jawa Barat,Cluster
+3830124,8/20/2023,13:13:17,-6.71603966,108.4124908,7,noaa20,1125,Gempol,Cirebon,Jawa Barat,Cluster
+3830125,8/20/2023,13:13:17,-6.803519245,107.3507881,8,noaa20,1280,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3830937,8/21/2023,1:05:57,-6.50080109,107.8997192,8,snpp,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3830126,8/20/2023,13:13:17,-6.86456108,106.7723236,8,noaa20,1125,Ciambar,Sukabumi,Jawa Barat,Cluster
+3830127,8/20/2023,13:13:17,-6.62928343,108.0904617,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3830128,8/20/2023,13:13:17,-6.63576603,108.0029984,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3830129,8/20/2023,13:13:17,-6.61415052,108.0563278,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3830130,8/20/2023,13:13:17,-6.60370183,108.0685577,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3830131,8/20/2023,13:13:17,-6.56534433,108.1756516,7,noaa20,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3830132,8/20/2023,13:13:17,-6.55041075,108.09552,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3830136,8/20/2023,13:13:17,-6.38585043,107.7257233,8,noaa20,1125,Cikaum,Subang,Jawa Barat,Cluster
+3830137,8/20/2023,13:13:17,-6.41628885,107.4787064,8,noaa20,1125,Campaka,Karawang,Jawa Barat,Cluster
+3830938,8/21/2023,1:05:57,-6.54833221,108.0958328,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3830140,8/20/2023,13:13:17,-6.04588461,107.0541458,8,noaa20,1125,Muaragembong,Bekasi,Jawa Barat,Cluster
+3830939,8/21/2023,1:05:57,-6.60914421,108.168747,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3830141,8/20/2023,13:13:17,-6.03100157,107.062645,8,noaa20,1125,Muaragembong,Bekasi,Jawa Barat,Cluster
+3830941,8/21/2023,1:05:57,-6.80559444,108.0738754,8,snpp,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3830942,8/21/2023,1:05:57,-6.82043886,108.1253891,8,snpp,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3830945,8/21/2023,1:05:57,-6.80386591,107.3503113,8,snpp,1125,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3830955,8/21/2023,1:05:57,-7.10475588,106.4903488,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3830956,8/21/2023,1:05:57,-7.14531469,106.4727783,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3831334,8/21/2023,13:44:08,-7.29013252,106.4340439,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3831059,8/22/2023,1:38:13,-6.548158967,108.0941213,8,noaa20,1399,Terisi,Indramayu,Jawa Barat,Cluster
+3831335,8/21/2023,13:44:08,-7.12549305,106.7248612,8,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3831336,8/21/2023,13:44:08,-7.1099782,106.7084885,8,snpp,1125,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3831337,8/21/2023,13:44:08,-6.83784533,108.108635,8,snpp,1125,Cadasngampar,Sumedang,Jawa Barat,Cluster
+3831338,8/21/2023,13:44:08,-6.803406713,107.3464813,8,snpp,1399,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3831339,8/21/2023,13:44:08,-6.539285425,108.5203362,8,snpp,1280,Kapetakan,Cirebon,Jawa Barat,Cluster
+3831340,8/21/2023,13:44:08,-6.612117765,108.0482826,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3831341,8/21/2023,13:44:08,-6.60282087,108.1595993,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3831342,8/21/2023,13:44:08,-6.58391571,107.8531799,8,snpp,1125,Surian,Sumedang,Jawa Barat,Cluster
+3831343,8/21/2023,13:44:08,-6.03040838,107.0664825,8,snpp,1125,Muaragembong,Bekasi,Jawa Barat,Cluster
+3831060,8/22/2023,1:38:13,-6.50011444,107.549408,8,noaa20,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3831061,8/22/2023,1:38:13,-6.801231625,107.3462944,8,noaa20,1280,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3831199,8/22/2023,0:44:11,-6.51990652,108.0994415,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3831673,8/21/2023,12:51:30,-7.76176786,108.461937,8,noaa20,1125,Cimerak,Pangandaran,Jawa Barat,Cluster
+3831200,8/22/2023,0:44:11,-6.548622845,108.0947075,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3831205,8/22/2023,0:44:11,-6.77271891,108.1544342,8,snpp,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3831703,8/21/2023,12:51:30,-7.03183556,108.6191101,8,noaa20,1125,Luragung,Kuningan,Jawa Barat,Cluster
+3831208,8/22/2023,0:44:11,-6.8795085,108.6644745,8,snpp,1125,Karangwareng,Cirebon,Jawa Barat,Cluster
+3831704,8/21/2023,12:51:30,-7.11781454,107.890358,7,noaa20,1125,Leles,Garut,Jawa Barat,Cluster
+3831705,8/21/2023,12:51:30,-6.97754622,108.6521835,8,noaa20,1125,Cidahu,Kuningan,Jawa Barat,Cluster
+3831215,8/22/2023,0:44:11,-6.85706139,108.1764374,8,snpp,1125,Cadasngampar,Sumedang,Jawa Barat,Cluster
+3831706,8/21/2023,12:51:30,-7.07629251,107.8261261,8,noaa20,1125,Cikancung,Bandung,Jawa Barat,Cluster
+3831707,8/21/2023,12:51:30,-7.03591824,107.9378357,8,noaa20,1125,Baluburlimbangan,Garut,Jawa Barat,Cluster
+3831216,8/22/2023,0:44:11,-6.802786587,107.3487485,8,snpp,1668,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3831708,8/21/2023,12:51:30,-7.00184441,107.8776932,8,noaa20,1125,Nagreg,Bandung,Jawa Barat,Cluster
+3831709,8/21/2023,12:51:30,-6.87028217,108.7525711,8,noaa20,1125,Pabedilan,Cirebon,Jawa Barat,Cluster
+3831710,8/21/2023,12:51:30,-6.882075545,108.2480011,8,noaa20,1280,Majalengka,Majalengka,Jawa Barat,Cluster
+3833291,8/22/2023,12:32:35,-7.18153405,106.5895348,8,noaa20,1280,Waluran,Sukabumi,Jawa Barat,Cluster
+3831711,8/21/2023,12:51:30,-6.96477556,107.5275803,8,noaa20,1125,Kutawaringin,Bandung,Jawa Barat,Cluster
+3831712,8/21/2023,12:51:30,-7.06068468,106.631279,8,noaa20,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3831713,8/21/2023,12:51:30,-6.83778596,108.1104507,8,noaa20,1280,Cadasngampar,Sumedang,Jawa Barat,Cluster
+3831715,8/21/2023,12:51:30,-6.92424965,107.2267151,8,noaa20,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3831716,8/21/2023,12:51:30,-6.71079159,108.0883865,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3831717,8/21/2023,12:51:30,-6.69219398,108.1623306,7,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3831718,8/21/2023,12:51:30,-6.803533555,107.3485184,8,noaa20,1280,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3831719,8/21/2023,12:51:30,-6.660693405,108.0749741,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3831720,8/21/2023,12:51:30,-6.66626692,108.0389252,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3831722,8/21/2023,12:51:30,-6.6168232,107.8475952,8,noaa20,1125,Cijambe,Subang,Jawa Barat,Cluster
+3831723,8/21/2023,12:51:30,-6.59489107,107.8586197,8,noaa20,1125,Surian,Sumedang,Jawa Barat,Cluster
+3831724,8/21/2023,12:51:30,-6.45225334,107.7450256,8,noaa20,1125,Cikaum,Subang,Jawa Barat,Cluster
+3831725,8/21/2023,12:51:30,-6.48811007,107.4960327,8,noaa20,1125,Campaka,Purwakarta,Jawa Barat,Cluster
+3831727,8/21/2023,12:51:30,-6.388060805,107.4554596,8,noaa20,1280,Cikampek,Karawang,Jawa Barat,Cluster
+3832954,8/22/2023,13:36:00,-7.027255535,107.9006577,8,aqua,3000,Nagreg,Bandung,Jawa Barat,Cluster
+3832955,8/22/2023,13:36:00,-6.975994587,107.6099472,8,aqua,3000,Dayeuh Kolot,Bandung,Jawa Barat,Cluster
+3832956,8/22/2023,13:36:00,-7.066767216,106.6850128,8,aqua,3000,Lengkong,Sukabumi,Jawa Barat,Cluster
+3833292,8/22/2023,12:32:35,-6.90500689,108.5910873,8,noaa20,1125,Japara,Kuningan,Jawa Barat,Cluster
+3833295,8/22/2023,12:32:35,-6.86905622,107.1664963,8,noaa20,1125,Cilaku,Cianjur,Jawa Barat,Cluster
+3833518,8/22/2023,13:26:37,-7.18329811,106.7299805,8,snpp,1125,Kalibunder,Sukabumi,Jawa Barat,Cluster
+3833943,8/23/2023,1:19:18,-6.54868412,108.0951462,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3833944,8/23/2023,1:19:18,-6.50055504,107.5476914,8,noaa20,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3833945,8/23/2023,1:19:18,-6.58107328,108.0810242,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3833946,8/23/2023,1:19:18,-6.612029555,108.0541916,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3833947,8/23/2023,1:19:18,-6.716795205,108.08218,8,noaa20,1280,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3833949,8/23/2023,1:19:18,-6.91669083,108.743721,8,noaa20,1125,Pasaleman,Cirebon,Jawa Barat,Cluster
+3833722,8/22/2023,21:53:00,-6.577751875,108.1300011,8,terra,3414,Kertajati,Majalengka,Jawa Barat,Cluster
+3833830,8/23/2023,0:25:15,-6.547733147,108.0958099,8,snpp,1399,Terisi,Indramayu,Jawa Barat,Cluster
+3833842,8/23/2023,0:25:15,-6.801691373,107.349378,8,snpp,1399,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3833853,8/23/2023,0:25:15,-7.65583277,108.4560852,8,snpp,1125,Parigi,Pangandaran,Jawa Barat,Cluster
+3833955,8/23/2023,1:19:18,-6.801158908,107.3488541,8,noaa20,1500,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3833519,8/22/2023,13:26:37,-7.0589029,106.6904526,8,snpp,1399,Lengkong,Sukabumi,Jawa Barat,Cluster
+3833520,8/22/2023,13:26:37,-6.91849136,107.2253189,8,snpp,1280,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3833967,8/23/2023,1:19:18,-7.20628691,106.4131622,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3833521,8/22/2023,13:26:37,-6.89737892,107.302475,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3833522,8/22/2023,13:26:37,-6.8018744,107.3477593,8,snpp,1280,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3834692,8/24/2023,1:54:27,-6.54724503,108.0932922,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3834693,8/24/2023,1:54:27,-6.49813652,107.5484314,8,snpp,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3834694,8/24/2023,1:54:27,-6.60626698,108.1472092,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3834407,8/23/2023,13:06:16,-7.05773115,108.7793198,8,snpp,1125,Cibingbin,Kuningan,Jawa Barat,Cluster
+3834695,8/24/2023,1:54:27,-6.46048069,107.2126465,8,snpp,1125,Bojongmangu,Bekasi,Jawa Barat,Cluster
+3834409,8/23/2023,13:06:16,-7.26644707,106.4556503,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3834696,8/24/2023,1:54:27,-6.79650879,107.3478146,8,snpp,1500,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3834411,8/23/2023,13:06:16,-7.15524864,106.7105713,8,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3835570,8/25/2023,0:38:36,-6.54648972,108.0935211,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3834412,8/23/2023,13:06:16,-6.69631958,108.1667175,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3834413,8/23/2023,13:06:16,-6.60554838,108.1194916,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3834414,8/23/2023,13:06:16,-6.60958433,108.045517,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3834415,8/23/2023,13:06:16,-6.61753941,107.873848,8,snpp,1125,Surian,Sumedang,Jawa Barat,Cluster
+3834416,8/23/2023,13:06:16,-6.53808737,108.0119171,8,snpp,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3834417,8/23/2023,13:06:16,-6.43097591,107.5058136,8,snpp,1125,Bungursari,Purwakarta,Jawa Barat,Cluster
+3834418,8/23/2023,13:06:16,-6.43512201,107.4287415,8,snpp,1125,Cikampek,Karawang,Jawa Barat,Cluster
+3834420,8/23/2023,13:06:16,-6.48679662,106.9994431,8,snpp,1280,Klapanunggal,Bogor,Jawa Barat,Cluster
+3834421,8/23/2023,13:06:16,-6.392439207,107.2351329,8,snpp,1399,Telukjambe Barat,Karawang,Jawa Barat,Cluster
+3834423,8/23/2023,13:06:16,-6.35742855,107.2957001,7,snpp,1125,Telukjambe Timur,Karawang,Jawa Barat,Cluster
+3834424,8/23/2023,13:06:16,-6.281940225,107.1202698,8,snpp,1280,Cikarang Barat,Bekasi,Jawa Barat,Cluster
+3834530,8/23/2023,13:58:55,-7.03743267,106.7670898,8,noaa20,1125,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3834531,8/23/2023,13:58:55,-6.95858574,106.4054565,8,noaa20,1125,Cisolok,Sukabumi,Jawa Barat,Cluster
+3834533,8/23/2023,13:58:55,-6.39104366,107.2326355,8,noaa20,1125,Telukjambe Barat,Karawang,Jawa Barat,Cluster
+3834589,8/24/2023,0:07:45,-6.55002785,108.0930328,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3834645,8/24/2023,0:58:57,-6.54832792,108.0940857,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3834646,8/24/2023,0:58:57,-6.52106571,107.837822,8,noaa20,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3834647,8/24/2023,0:58:57,-6.60442543,108.1463165,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3834648,8/24/2023,0:58:57,-6.57363749,107.9094009,8,noaa20,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3834663,8/24/2023,0:58:57,-6.799047828,107.3482132,8,noaa20,1500,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3834667,8/24/2023,0:58:57,-6.94534969,108.0889359,8,noaa20,1125,Wado,Sumedang,Jawa Barat,Cluster
+3835119,8/24/2023,12:45:57,-7.392049075,107.7794418,8,snpp,1280,Cikajang,Garut,Jawa Barat,Cluster
+3835130,8/24/2023,12:45:57,-7.26327944,106.6809235,8,snpp,1125,Cimanggu,Sukabumi,Jawa Barat,Cluster
+3835131,8/24/2023,12:45:57,-6.944679495,108.7218971,8,snpp,1280,Pasaleman,Cirebon,Jawa Barat,Cluster
+3835132,8/24/2023,12:45:57,-7.2078228,106.6679688,8,snpp,1125,Jampang Kulon,Sukabumi,Jawa Barat,Cluster
+3835133,8/24/2023,12:45:57,-7.11423349,106.5013657,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3835134,8/24/2023,12:45:57,-6.91248751,107.9159393,8,snpp,1125,Sumedang Selatan,Sumedang,Jawa Barat,Cluster
+3835135,8/24/2023,12:45:57,-7.067946195,106.6368103,8,snpp,1280,Lengkong,Sukabumi,Jawa Barat,Cluster
+3835136,8/24/2023,12:45:57,-7.04777431,106.6190949,8,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3835137,8/24/2023,12:45:57,-6.96056676,107.2102547,8,snpp,1280,Rongga,Bandung Barat,Jawa Barat,Cluster
+3835138,8/24/2023,12:45:57,-6.70668125,108.3118286,8,snpp,1280,Sumber Jaya,Majalengka,Jawa Barat,Cluster
+3835139,8/24/2023,12:45:57,-6.61087799,108.0569,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3835140,8/24/2023,12:45:57,-6.67371368,107.4891357,8,snpp,1125,Bojong,Purwakarta,Jawa Barat,Cluster
+3835141,8/24/2023,12:45:57,-6.54084682,108.0733872,8,snpp,1125,Kroya,Indramayu,Jawa Barat,Cluster
+3835571,8/25/2023,0:38:36,-6.58952689,108.1060982,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3834681,8/24/2023,0:58:57,-7.19897747,106.4291382,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3835572,8/25/2023,0:38:36,-6.42040205,106.9187584,8,noaa20,1280,Gunungputri,Bogor,Jawa Barat,Cluster
+3834691,8/24/2023,1:54:27,-6.20075321,107.1036911,8,snpp,1125,Cibitung,Bekasi,Jawa Barat,Cluster
+3835573,8/25/2023,0:38:36,-6.646131755,108.1714325,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3835589,8/25/2023,0:38:36,-6.82343388,108.0924149,8,noaa20,1125,Cadasngampar,Sumedang,Jawa Barat,Cluster
+3835623,8/25/2023,1:32:40,-6.54739952,108.0952721,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3835379,8/24/2023,13:38:34,-7.53815699,107.6641769,8,noaa20,1125,Cikelet,Garut,Jawa Barat,Cluster
+3835380,8/24/2023,13:38:34,-7.47859097,107.6816788,8,noaa20,1125,Pakenjeng,Garut,Jawa Barat,Cluster
+3835385,8/24/2023,13:38:34,-7.30421114,106.4431839,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3835386,8/24/2023,13:38:34,-6.8937521,108.624115,8,noaa20,1125,Karangwareng,Cirebon,Jawa Barat,Cluster
+3835624,8/25/2023,1:32:40,-6.50223827,107.5479584,8,snpp,1125,Cibatu,Purwakarta,Jawa Barat,Cluster
+3835656,8/25/2023,10:02:00,-6.958972692,107.8081627,8,terra,3414,Cimanggung,Sumedang,Jawa Barat,Cluster
+3835387,8/24/2023,13:38:34,-7.211270967,106.6712723,8,noaa20,1399,Jampang Kulon,Sukabumi,Jawa Barat,Cluster
+3835388,8/24/2023,13:38:34,-6.972715615,107.8887939,8,noaa20,1280,Cicalengka,Bandung,Jawa Barat,Cluster
+3835389,8/24/2023,13:38:34,-7.16618156,106.5504456,8,noaa20,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3835390,8/24/2023,13:38:34,-6.91428232,107.918129,8,noaa20,1125,Sumedang Selatan,Sumedang,Jawa Barat,Cluster
+3836889,8/26/2023,0:19:41,-6.54679847,108.0931358,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3835391,8/24/2023,13:38:34,-6.83182192,108.297905,8,noaa20,1125,Sukahaji,Majalengka,Jawa Barat,Cluster
+3835392,8/24/2023,13:38:34,-7.113815147,106.5027288,8,noaa20,1399,Ciemas,Sukabumi,Jawa Barat,Cluster
+3835393,8/24/2023,13:38:34,-7.05479097,106.7454453,8,noaa20,1125,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3835394,8/24/2023,13:38:34,-6.7401576,108.5014343,8,noaa20,1125,Sumber,Cirebon,Jawa Barat,Cluster
+3835395,8/24/2023,13:38:34,-6.705956695,108.3131065,8,noaa20,1280,Sumber Jaya,Majalengka,Jawa Barat,Cluster
+3835396,8/24/2023,13:38:34,-6.80127239,107.3492127,8,noaa20,1125,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3835397,8/24/2023,13:38:34,-6.64019251,107.9911575,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3835398,8/24/2023,13:38:34,-6.57968283,108.1653976,8,noaa20,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3836312,8/25/2023,12:27:01,-6.807874997,108.4136607,8,snpp,1399,Pesawahan,Kuningan,Jawa Barat,Cluster
+3836318,8/25/2023,12:27:01,-6.93990612,106.592865,8,snpp,1125,Pelabuhan Ratu,Sukabumi,Jawa Barat,Cluster
+3836321,8/25/2023,12:27:01,-6.63561106,108.0693436,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3836322,8/25/2023,12:27:01,-6.61646461,107.9832993,9,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3836323,8/25/2023,12:27:01,-6.59673309,108.0840073,9,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3836324,8/25/2023,12:27:01,-6.57906246,108.0769043,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3836327,8/25/2023,12:27:01,-6.49222565,107.4442215,8,snpp,1125,Babakan Cikao,Purwakarta,Jawa Barat,Cluster
+3836894,8/26/2023,0:19:41,-6.821494853,108.4153802,8,noaa20,1742,Pesawahan,Kuningan,Jawa Barat,Cluster
+3837278,8/26/2023,12:59:19,-7.36516619,106.8395081,8,noaa20,1125,Sukasari,Cianjur,Jawa Barat,Cluster
+3837279,8/26/2023,12:59:19,-7.38281202,106.7154007,8,noaa20,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3836973,8/26/2023,13:51:57,-6.93414545,107.2117004,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3837282,8/26/2023,12:59:19,-7.06554413,108.4940872,8,noaa20,1125,Ciniru,Kuningan,Jawa Barat,Cluster
+3837285,8/26/2023,12:59:19,-6.97415733,107.6911926,8,noaa20,1125,Bojongsoang,Bandung,Jawa Barat,Cluster
+3837286,8/26/2023,12:59:19,-6.97725916,107.5990982,7,noaa20,1125,Dayeuh Kolot,Bandung,Jawa Barat,Cluster
+3837287,8/26/2023,12:59:19,-7.10817862,106.5381546,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3837288,8/26/2023,12:59:19,-6.90823412,107.5533295,8,noaa20,1125,Cimahi Selatan,Bandung,Jawa Barat,Cluster
+3837289,8/26/2023,12:59:19,-6.79302073,108.089653,8,noaa20,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3837290,8/26/2023,12:59:19,-6.87021399,107.169075,8,noaa20,1125,Cilaku,Cianjur,Jawa Barat,Cluster
+3837293,8/26/2023,12:59:19,-6.62491131,108.1849899,8,noaa20,1280,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3837295,8/26/2023,12:59:19,-6.60671329,108.1718674,7,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3836520,8/25/2023,13:19:39,-7.36895943,106.7181473,8,noaa20,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3836521,8/25/2023,13:19:39,-7.01317215,108.7828827,8,noaa20,1125,Cibingbin,Kuningan,Jawa Barat,Cluster
+3836522,8/25/2023,13:19:39,-7.21579599,107.1457138,8,noaa20,1125,Pagelaran,Cianjur,Jawa Barat,Cluster
+3836523,8/25/2023,13:19:39,-6.96808195,108.7172318,8,noaa20,1125,Cimahi,Kuningan,Jawa Barat,Cluster
+3836524,8/25/2023,13:19:39,-7.30259132,106.4169388,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3836525,8/25/2023,13:19:39,-6.95975161,108.6338043,8,noaa20,1125,Kalimanggis,Kuningan,Jawa Barat,Cluster
+3836526,8/25/2023,13:19:39,-7.09975815,107.6820297,8,noaa20,1125,Ciparay,Bandung,Jawa Barat,Cluster
+3836528,8/25/2023,13:19:39,-6.94713926,108.6239624,8,noaa20,1125,Kalimanggis,Kuningan,Jawa Barat,Cluster
+3836529,8/25/2023,13:19:39,-7.26823807,106.5322342,8,noaa20,1125,Waluran,Sukabumi,Jawa Barat,Cluster
+3837296,8/26/2023,12:59:19,-6.55314922,108.0726929,8,noaa20,1125,Kroya,Indramayu,Jawa Barat,Cluster
+3836974,8/26/2023,13:51:57,-6.61079836,108.1611481,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3837301,8/26/2023,12:59:19,-6.26974154,107.257843,8,noaa20,1125,Kedungwaringin,Bekasi,Jawa Barat,Cluster
+3836530,8/25/2023,13:19:39,-7.21924257,106.8330994,8,noaa20,1125,Pabuaran,Sukabumi,Jawa Barat,Cluster
+3836975,8/26/2023,13:51:57,-6.59015083,108.0518723,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3836531,8/25/2023,13:19:39,-7.0484724,107.7475967,7,noaa20,1125,Majalaya,Bandung,Jawa Barat,Cluster
+3836976,8/26/2023,13:51:57,-6.55570173,108.1526337,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3836532,8/25/2023,13:19:39,-7.23726845,106.446022,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3836533,8/25/2023,13:19:39,-7.17620039,106.691124,8,noaa20,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3839394,8/27/2023,13:31:36,-7.36647701,106.7239761,8,snpp,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3836534,8/25/2023,13:19:39,-7.09243512,106.7191391,8,noaa20,1280,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3836535,8/25/2023,13:19:39,-7.11414909,106.5648575,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3836536,8/25/2023,13:19:39,-6.809987785,108.412674,8,noaa20,1280,Pesawahan,Kuningan,Jawa Barat,Cluster
+3836537,8/25/2023,13:19:39,-6.84131575,108.0627136,8,noaa20,1125,Cisitu,Sumedang,Jawa Barat,Cluster
+3836538,8/25/2023,13:19:39,-6.81808758,108.1233215,8,noaa20,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3836539,8/25/2023,13:19:39,-6.73084307,108.0977097,7,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3836540,8/25/2023,13:19:39,-6.94006491,106.5933228,8,noaa20,1125,Cikidang,Sukabumi,Jawa Barat,Cluster
+3836541,8/25/2023,13:19:39,-6.70480108,108.0862122,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3836542,8/25/2023,13:19:39,-6.80117035,107.3488693,8,noaa20,1125,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3836543,8/25/2023,13:19:39,-6.66977024,108.0432587,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3836544,8/25/2023,13:19:39,-6.63766241,108.2265625,8,noaa20,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3836545,8/25/2023,13:19:39,-6.66129732,108.030777,7,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3836546,8/25/2023,13:19:39,-6.63726425,108.0681,7,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3836547,8/25/2023,13:19:39,-6.63499117,108.060257,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3836548,8/25/2023,13:19:39,-6.62986374,108.025795,7,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3836549,8/25/2023,13:19:39,-6.63038635,107.9885445,7,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3836550,8/25/2023,13:19:39,-6.61290646,108.0231857,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3836551,8/25/2023,13:19:39,-6.598213195,108.0845833,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3836552,8/25/2023,13:19:39,-6.615422725,107.984375,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3836553,8/25/2023,13:19:39,-6.60836554,107.9851608,7,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3836554,8/25/2023,13:19:39,-6.58009005,108.0780563,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3836555,8/25/2023,13:19:39,-6.54656744,108.1368027,8,noaa20,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3836556,8/25/2023,13:19:39,-6.54947329,108.0958633,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3836557,8/25/2023,13:19:39,-6.53988504,108.0681305,8,noaa20,1125,Kroya,Indramayu,Jawa Barat,Cluster
+3836558,8/25/2023,13:19:39,-6.58180475,107.7994843,7,noaa20,1125,Cibogo,Subang,Jawa Barat,Cluster
+3836559,8/25/2023,13:19:39,-6.526777745,108.1053848,8,noaa20,1500,Terisi,Indramayu,Jawa Barat,Cluster
+3836560,8/25/2023,13:19:39,-6.52990627,107.9020996,7,noaa20,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3836561,8/25/2023,13:19:39,-6.50283337,107.8756867,7,noaa20,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3836562,8/25/2023,13:19:39,-6.43418741,107.9764633,8,noaa20,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3836564,8/25/2023,13:19:39,-6.48865271,107.5753632,8,noaa20,1125,Cipeundeuy,Subang,Jawa Barat,Cluster
+3836566,8/25/2023,13:19:39,-6.4483943,107.5692139,8,noaa20,1125,Pabuaran,Subang,Jawa Barat,Cluster
+3836567,8/25/2023,13:19:39,-6.4072752,107.7020264,7,noaa20,1125,Purwadadi,Subang,Jawa Barat,Cluster
+3836572,8/25/2023,13:19:39,-6.29814339,107.1327362,8,noaa20,1125,Cikarang Utara,Bekasi,Jawa Barat,Cluster
+3838318,8/27/2023,0:50:33,-6.54855728,108.0949097,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3838319,8/27/2023,0:50:33,-6.57690406,108.0926323,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3838320,8/27/2023,0:50:33,-6.57896948,108.0844803,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3838321,8/27/2023,0:50:33,-6.587192775,108.1235733,8,snpp,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3838362,8/27/2023,1:44:37,-6.60297251,108.1211395,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3838380,8/27/2023,9:43:00,-6.093530655,106.9792633,8,terra,3000,Tarumajaya,Bekasi,Jawa Barat,Cluster
+3838384,8/27/2023,9:43:00,-6.496570587,107.9084702,8,terra,3000,Cipunagara,Subang,Jawa Barat,Cluster
+3838388,8/27/2023,9:43:00,-6.970896721,107.6134567,8,terra,3000,Dayeuh Kolot,Bandung,Jawa Barat,Cluster
+3838127,8/26/2023,1:10:54,-6.42481995,107.7040939,8,snpp,1125,Cikaum,Subang,Jawa Barat,Cluster
+3838128,8/26/2023,1:10:54,-6.55135775,108.1884995,8,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3838129,8/26/2023,1:10:54,-6.549504995,108.0949707,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3838130,8/26/2023,1:10:54,-6.57672548,108.121994,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3838131,8/26/2023,1:10:54,-6.589069365,108.0658417,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3838132,8/26/2023,1:10:54,-6.812838555,108.4164772,8,snpp,1280,Pesawahan,Kuningan,Jawa Barat,Cluster
+3838133,8/26/2023,1:10:54,-6.822451273,108.4165853,8,snpp,1399,Pesawahan,Kuningan,Jawa Barat,Cluster
+3839028,8/27/2023,12:38:58,-7.00760746,108.6128388,8,noaa20,1125,Luragung,Kuningan,Jawa Barat,Cluster
+3839031,8/27/2023,12:38:58,-7.04404259,107.631546,8,noaa20,1125,Arjasari,Bandung,Jawa Barat,Cluster
+3839032,8/27/2023,12:38:58,-7.16736937,106.5495529,8,noaa20,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3839034,8/27/2023,12:38:58,-7.01055622,106.9270706,8,noaa20,1125,Nyalindung,Sukabumi,Jawa Barat,Cluster
+3839035,8/27/2023,12:38:58,-6.9078021,107.2902985,8,noaa20,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3839036,8/27/2023,12:38:58,-6.73399878,108.1131821,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3839395,8/27/2023,13:31:36,-6.98662901,108.6186829,7,snpp,1125,Luragung,Kuningan,Jawa Barat,Cluster
+3839396,8/27/2023,13:31:36,-7.02917385,107.6418228,8,snpp,1125,Baleendah,Bandung,Jawa Barat,Cluster
+3839397,8/27/2023,13:31:36,-7.16327763,106.5492783,7,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3839398,8/27/2023,13:31:36,-6.81416368,108.2748718,8,snpp,1125,Sukahaji,Majalengka,Jawa Barat,Cluster
+3839399,8/27/2023,13:31:36,-7.03890133,106.7648163,8,snpp,1125,Jampang Tengah,Sukabumi,Jawa Barat,Cluster
+3839400,8/27/2023,13:31:36,-6.7328856,108.1121826,8,snpp,1280,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3839401,8/27/2023,13:31:36,-6.80224133,107.3469238,7,snpp,1125,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3839402,8/27/2023,13:31:36,-6.53238916,108.2455826,7,snpp,1125,Bangodua,Indramayu,Jawa Barat,Cluster
+3839403,8/27/2023,13:31:36,-6.511840105,107.8220482,8,snpp,1280,Pagaden,Subang,Jawa Barat,Cluster
+3839405,8/27/2023,13:31:36,-6.56168985,107.3576355,8,snpp,1125,Sukasari,Cianjur,Jawa Barat,Cluster
+3839567,8/27/2023,13:48:00,-6.821361542,108.2738953,8,aqua,3000,Sukahaji,Majalengka,Jawa Barat,Cluster
+3839568,8/27/2023,13:48:00,-6.734404564,108.1145935,8,aqua,3000,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3839693,8/28/2023,0:31:39,-6.548722745,108.0963249,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3840658,8/28/2023,13:11:15,-7.66508913,108.4067001,8,snpp,1125,Cigugur,Pangandaran,Jawa Barat,Cluster
+3840664,8/28/2023,13:11:15,-7.3814168,108.4756622,8,snpp,1125,Banjar,Banjar,Jawa Barat,Cluster
+3839694,8/28/2023,0:31:39,-6.62910843,108.0577215,8,snpp,1399,Kertajati,Majalengka,Jawa Barat,Cluster
+3839757,8/28/2023,1:25:41,-6.54753208,108.0931397,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3840681,8/28/2023,13:11:15,-7.07995367,108.7678375,8,snpp,1125,Cibingbin,Kuningan,Jawa Barat,Cluster
+3840682,8/28/2023,13:11:15,-7.35144281,106.8700485,8,snpp,1125,Cidadap,Sukabumi,Jawa Barat,Cluster
+3840683,8/28/2023,13:11:15,-7.3748889,106.6878281,8,snpp,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3840684,8/28/2023,13:11:15,-7.36663294,106.7203064,8,snpp,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3840687,8/28/2023,13:11:15,-6.98894501,108.6317062,8,snpp,1125,Luragung,Kuningan,Jawa Barat,Cluster
+3840688,8/28/2023,13:11:15,-7.28280973,106.4599915,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3840689,8/28/2023,13:11:15,-7.09436607,107.6867218,8,snpp,1125,Ciparay,Bandung,Jawa Barat,Cluster
+3840690,8/28/2023,13:11:15,-7.25449228,106.4665222,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3840691,8/28/2023,13:11:15,-7.2383585,106.4340286,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3840692,8/28/2023,13:11:15,-7.19713783,106.687912,8,snpp,1125,Cimanggu,Sukabumi,Jawa Barat,Cluster
+3840693,8/28/2023,13:11:15,-7.18733978,106.6604919,8,snpp,1125,Jampang Kulon,Sukabumi,Jawa Barat,Cluster
+3840694,8/28/2023,13:11:15,-6.860611675,108.754528,8,snpp,1280,Pabedilan,Cirebon,Jawa Barat,Cluster
+3840696,8/28/2023,13:11:15,-6.86088896,108.2297287,8,snpp,1125,Majalengka,Majalengka,Jawa Barat,Cluster
+3839758,8/28/2023,1:25:41,-6.57182074,108.0857163,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3840697,8/28/2023,13:11:15,-6.598661185,108.2531281,8,snpp,1280,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3840698,8/28/2023,13:11:15,-6.61752272,108.1174011,7,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3841155,8/29/2023,0:14:08,-6.5467844,108.0956879,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3839759,8/28/2023,1:25:41,-6.62930012,108.0584259,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3841156,8/29/2023,0:14:08,-6.58374532,108.2246424,8,snpp,1399,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3839760,8/28/2023,1:25:41,-6.70504045,108.4008026,8,noaa20,1125,Gempol,Cirebon,Jawa Barat,Cluster
+3841157,8/29/2023,0:14:08,-6.58470917,108.1215668,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3840699,8/28/2023,13:11:15,-6.59048152,108.1950264,8,snpp,1280,Cikedung,Indramayu,Jawa Barat,Cluster
+3840700,8/28/2023,13:11:15,-6.60163164,108.0652695,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3839762,8/28/2023,1:25:41,-6.762720585,108.2040291,8,noaa20,1280,Kasokandel,Majalengka,Jawa Barat,Cluster
+3840701,8/28/2023,13:11:15,-6.57489347,108.067482,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3839763,8/28/2023,1:25:41,-6.81244755,108.426857,8,noaa20,1125,Pesawahan,Kuningan,Jawa Barat,Cluster
+3840702,8/28/2023,13:11:15,-6.56423473,108.0481186,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3840703,8/28/2023,13:11:15,-6.55024099,108.0957184,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3843313,8/29/2023,13:43:32,-7.42163467,106.6784439,8,noaa20,1125,Cibitung,Sukabumi,Jawa Barat,Cluster
+3841285,8/29/2023,1:05:21,-6.34322166,107.3228302,8,noaa20,1125,Telukjambe Timur,Karawang,Jawa Barat,Cluster
+3841286,8/29/2023,1:05:21,-6.53273606,108.1220741,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3841287,8/29/2023,1:05:21,-6.57919025,108.2240677,8,noaa20,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3841288,8/29/2023,1:05:21,-6.58469296,108.2375717,8,noaa20,1125,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3841289,8/29/2023,1:05:21,-6.57877684,108.1775208,8,noaa20,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3841290,8/29/2023,1:05:21,-6.591108083,108.2240143,8,noaa20,1500,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3841293,8/29/2023,1:05:21,-7.07636881,108.7652512,8,noaa20,1125,Cibingbin,Kuningan,Jawa Barat,Cluster
+3841296,8/29/2023,1:05:21,-7.03478622,108.0089798,8,noaa20,1125,Baluburlimbangan,Garut,Jawa Barat,Cluster
+3841302,8/29/2023,1:05:21,-7.56688643,107.9153137,8,noaa20,1125,Pendeuy,Garut,Jawa Barat,Cluster
+3841343,8/29/2023,9:24:00,-6.760789394,108.249855,8,terra,3000,Kasokandel,Majalengka,Jawa Barat,Cluster
+3842318,8/29/2023,12:52:19,-7.37111282,106.702858,8,snpp,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3842320,8/29/2023,12:52:19,-7.00517654,108.787468,8,snpp,1125,Cibingbin,Kuningan,Jawa Barat,Cluster
+3842321,8/29/2023,12:52:19,-6.94115353,108.7269669,8,snpp,1125,Pasaleman,Cirebon,Jawa Barat,Cluster
+3842322,8/29/2023,12:52:19,-7.24357176,106.4908447,8,snpp,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3842323,8/29/2023,12:52:19,-7.03352118,107.9357834,8,snpp,1125,Baluburlimbangan,Garut,Jawa Barat,Cluster
+3842324,8/29/2023,12:52:19,-7.21896791,106.4374466,8,snpp,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3842327,8/29/2023,12:52:19,-7.04084682,106.6038742,8,snpp,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3842328,8/29/2023,12:52:19,-6.91892719,107.2835617,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3842329,8/29/2023,12:52:19,-6.9250927,107.2396088,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3842330,8/29/2023,12:52:19,-6.91555691,107.246254,8,snpp,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3842331,8/29/2023,12:52:19,-6.7992692,107.9868851,7,snpp,1125,Paseg,Sumedang,Jawa Barat,Cluster
+3842333,8/29/2023,12:52:19,-6.93149519,106.6216736,8,snpp,1125,Cikidang,Sukabumi,Jawa Barat,Cluster
+3842338,8/29/2023,12:52:19,-6.61692953,108.1295319,7,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3842339,8/29/2023,12:52:19,-6.5981555,108.1475525,7,snpp,1125,Cikedung,Indramayu,Jawa Barat,Cluster
+3842340,8/29/2023,12:52:19,-6.60966015,107.9818726,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3842342,8/29/2023,12:52:19,-6.56719065,108.1379623,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3842344,8/29/2023,12:52:19,-6.54799366,108.0949402,8,snpp,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3842345,8/29/2023,12:52:19,-6.54163011,108.1039988,8,snpp,1399,Terisi,Indramayu,Jawa Barat,Cluster
+3842348,8/29/2023,12:52:19,-6.53281021,107.8264771,8,snpp,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3842350,8/29/2023,12:52:19,-6.44100523,107.6268921,7,snpp,1125,Pabuaran,Subang,Jawa Barat,Cluster
+3842354,8/29/2023,12:52:19,-6.39375687,107.3829346,8,snpp,1125,Klari,Karawang,Jawa Barat,Cluster
+3843316,8/29/2023,13:43:32,-7.21879292,106.677124,8,noaa20,1125,Cimanggu,Sukabumi,Jawa Barat,Cluster
+3843317,8/29/2023,13:43:32,-7.181762935,106.7380562,8,noaa20,1280,Pabuaran,Sukabumi,Jawa Barat,Cluster
+3843318,8/29/2023,13:43:32,-7.231203795,106.4429817,7,noaa20,1280,Cilacap,Sukabumi,Jawa Barat,Cluster
+3843834,8/30/2023,0:45:01,-6.28151941,106.9768524,8,noaa20,1125,Jatiasih,Bekasi,Jawa Barat,Cluster
+3843319,8/29/2023,13:43:32,-7.21807575,106.4389038,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3843837,8/30/2023,0:45:01,-6.54909658,108.0961838,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3843320,8/29/2023,13:43:32,-7.10859855,106.5195058,8,noaa20,1399,Ciemas,Sukabumi,Jawa Barat,Cluster
+3843838,8/30/2023,0:45:01,-6.579804185,108.0935211,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3843321,8/29/2023,13:43:32,-7.04757452,106.6511383,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3843839,8/30/2023,0:45:01,-6.61427259,108.113945,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3843322,8/29/2023,13:43:32,-6.90955067,107.3045578,8,noaa20,1125,Rongga,Bandung Barat,Jawa Barat,Cluster
+3843840,8/30/2023,0:45:01,-6.61734056,108.0371018,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3843280,8/29/2023,13:31:00,-7.217899323,106.436409,8,aqua,3000,Cilacap,Sukabumi,Jawa Barat,Cluster
+3843281,8/29/2023,13:31:00,-6.539654255,108.1699524,8,aqua,3000,Cikedung,Indramayu,Jawa Barat,Cluster
+3843843,8/30/2023,0:45:01,-6.46968794,106.9545441,8,noaa20,1125,Klapanunggal,Bogor,Jawa Barat,Cluster
+3843323,8/29/2023,13:43:32,-6.84710312,107.4039459,8,noaa20,1125,Cipatat,Bandung Barat,Jawa Barat,Cluster
+3843324,8/29/2023,13:43:32,-6.615078133,108.1312256,8,noaa20,1399,Kertajati,Majalengka,Jawa Barat,Cluster
+3843325,8/29/2023,13:43:32,-6.57078981,108.1400375,7,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3843326,8/29/2023,13:43:32,-6.54095411,108.1062317,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3846492,8/31/2023,1:17:17,-6.42694807,107.5315323,8,snpp,1125,Pabuaran,Subang,Jawa Barat,Cluster
+3843906,8/30/2023,1:37:38,-6.54848099,108.0944214,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3843907,8/30/2023,1:37:38,-6.45973587,107.2141953,8,snpp,1125,Bojongmangu,Bekasi,Jawa Barat,Cluster
+3843908,8/30/2023,1:37:38,-6.64539719,108.1709366,8,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3843909,8/30/2023,1:37:38,-7.19604731,107.9930191,8,snpp,1125,Sucinaraja,Garut,Jawa Barat,Cluster
+3845766,8/30/2023,13:26:02,-7.58571386,107.8433228,8,noaa20,1125,Cisompet,Garut,Jawa Barat,Cluster
+3845779,8/30/2023,13:26:02,-7.37802839,106.6923981,8,noaa20,1125,Tegalbuleud,Sukabumi,Jawa Barat,Cluster
+3845781,8/30/2023,13:26:02,-7.24062538,106.4089203,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3845782,8/30/2023,13:26:02,-7.18386412,106.7239456,8,noaa20,1125,Lengkong,Sukabumi,Jawa Barat,Cluster
+3845783,8/30/2023,13:26:02,-7.15795183,106.7788963,8,noaa20,1280,Pabuaran,Sukabumi,Jawa Barat,Cluster
+3845784,8/30/2023,13:26:02,-7.14248371,106.4748764,8,noaa20,1125,Ciemas,Sukabumi,Jawa Barat,Cluster
+3845785,8/30/2023,13:26:02,-7.08102989,106.5286179,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3845786,8/30/2023,13:26:02,-7.05566263,106.6478806,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3845787,8/30/2023,13:26:02,-6.96624374,107.0650559,8,noaa20,1125,Campaka,Cianjur,Jawa Barat,Cluster
+3845788,8/30/2023,13:26:02,-6.984449625,106.6110039,8,noaa20,1280,Pelabuhan Ratu,Sukabumi,Jawa Barat,Cluster
+3845789,8/30/2023,13:26:02,-6.64376497,108.537468,8,noaa20,1125,Suranenggala,Cirebon,Jawa Barat,Cluster
+3845790,8/30/2023,13:26:02,-6.60797358,108.1490707,8,noaa20,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3845791,8/30/2023,13:26:02,-6.60814333,108.0534973,7,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3846493,8/31/2023,1:17:17,-6.54952002,108.0929718,8,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3845792,8/30/2023,13:26:02,-6.551031825,108.0965996,8,noaa20,1280,Terisi,Indramayu,Jawa Barat,Cluster
+3846670,8/31/2023,0:26:04,-6.2012012,107.1003685,8,noaa20,1280,Cibitung,Bekasi,Jawa Barat,Cluster
+3845793,8/30/2023,13:26:02,-6.52260351,108.0966873,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3845797,8/30/2023,13:26:02,-6.38398933,107.5234909,7,noaa20,1125,Jatisari,Karawang,Jawa Barat,Cluster
+3846671,8/31/2023,0:26:04,-6.22284889,106.9678116,8,noaa20,1125,Bekasi Barat,Bekasi,Jawa Barat,Cluster
+3846674,8/31/2023,0:26:04,-6.54568863,108.093811,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3846677,8/31/2023,0:26:04,-6.35342693,106.9663162,8,noaa20,1125,Gunungputri,Bogor,Jawa Barat,Cluster
+3846690,8/31/2023,0:26:04,-7.05957747,108.5334396,8,noaa20,1125,Ciniru,Kuningan,Jawa Barat,Cluster
+3846705,8/31/2023,0:26:04,-7.0939703,106.5213318,8,noaa20,1125,Simpenan,Sukabumi,Jawa Barat,Cluster
+3848818,8/31/2023,13:04:16,-7.43998671,107.1201401,8,noaa20,1125,Sindangbarang,Cianjur,Jawa Barat,Cluster
+3848826,8/31/2023,13:04:16,-7.23286057,107.7494278,8,noaa20,1125,Sukaresmi,Garut,Jawa Barat,Cluster
+3848829,8/31/2023,13:04:16,-7.04730177,108.7741242,8,noaa20,1125,Cibingbin,Kuningan,Jawa Barat,Cluster
+3848830,8/31/2023,13:04:16,-7.0569911,108.5769348,7,noaa20,1125,Labakwangi,Kuningan,Jawa Barat,Cluster
+3848832,8/31/2023,13:04:16,-7.31011343,106.4432068,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3848835,8/31/2023,13:04:16,-7.088902,107.5881348,8,noaa20,1125,Banjaran,Bandung,Jawa Barat,Cluster
+3848836,8/31/2023,13:04:16,-7.24586153,106.4214096,8,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3848837,8/31/2023,13:04:16,-7.04627419,107.7341232,7,noaa20,1125,Majalaya,Bandung,Jawa Barat,Cluster
+3848838,8/31/2023,13:04:16,-6.91091156,108.6225357,7,noaa20,1125,Ciawi Gerbang,Kuningan,Jawa Barat,Cluster
+3848839,8/31/2023,13:04:16,-7.14229441,107.0071793,8,noaa20,1125,Takokak,Cianjur,Jawa Barat,Cluster
+3848840,8/31/2023,13:04:16,-6.89299774,108.6739044,8,noaa20,1125,Waled,Cirebon,Jawa Barat,Cluster
+3848841,8/31/2023,13:04:16,-7.2081124,106.4430033,8,noaa20,1399,Cilacap,Sukabumi,Jawa Barat,Cluster
+3848843,8/31/2023,13:04:16,-7.19018459,106.4474106,7,noaa20,1125,Cilacap,Sukabumi,Jawa Barat,Cluster
+3848807,8/31/2023,13:04:16,-7.60892725,108.3981628,8,noaa20,1125,Cigugur,Pangandaran,Jawa Barat,Cluster
+3848844,8/31/2023,13:04:16,-6.96590233,107.6154709,7,noaa20,1125,Dayeuh Kolot,Bandung,Jawa Barat,Cluster
+3848845,8/31/2023,13:04:16,-7.117962125,106.5055008,8,noaa20,1280,Ciemas,Sukabumi,Jawa Barat,Cluster
+3848846,8/31/2023,13:04:16,-6.78498125,108.6249237,7,noaa20,1125,Astanajapura,Cirebon,Jawa Barat,Cluster
+3848847,8/31/2023,13:04:16,-6.941812515,107.2669716,8,noaa20,1280,Rongga,Bandung Barat,Jawa Barat,Cluster
+3848848,8/31/2023,13:04:16,-6.94702315,107.2435303,8,noaa20,1280,Rongga,Bandung Barat,Jawa Barat,Cluster
+3848849,8/31/2023,13:04:16,-6.92531872,107.2525406,8,noaa20,1125,Bojong Picung,Cianjur,Jawa Barat,Cluster
+3848850,8/31/2023,13:04:16,-6.74973202,108.4092941,7,noaa20,1125,Dukupuntang,Cirebon,Jawa Barat,Cluster
+3848851,8/31/2023,13:04:16,-6.96177292,106.9816055,8,noaa20,1125,Gegerbitung,Sukabumi,Jawa Barat,Cluster
+3848852,8/31/2023,13:04:16,-6.78855133,108.1031494,8,noaa20,1125,Tomo,Sumedang,Jawa Barat,Cluster
+3848853,8/31/2023,13:04:16,-6.76348019,108.0625153,8,noaa20,1125,Conggeang,Sumedang,Jawa Barat,Cluster
+3848854,8/31/2023,13:04:16,-6.75403786,108.0796051,8,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3848856,8/31/2023,13:04:16,-6.86209822,107.3201523,8,noaa20,1125,Haurwangi,Cianjur,Jawa Barat,Cluster
+3848857,8/31/2023,13:04:16,-6.73677921,108.1028976,7,noaa20,1125,Ujungjaya,Sumedang,Jawa Barat,Cluster
+3848858,8/31/2023,13:04:16,-6.85773706,107.1540604,7,noaa20,1125,Cilaku,Cianjur,Jawa Barat,Cluster
+3848859,8/31/2023,13:04:16,-6.71539736,108.0517197,7,noaa20,1125,Conggeang,Sumedang,Jawa Barat,Cluster
+3848860,8/31/2023,13:04:16,-6.86544085,107.0216293,8,noaa20,1125,Sukalarang,Sukabumi,Jawa Barat,Cluster
+3848861,8/31/2023,13:04:16,-6.65112972,108.3431549,8,noaa20,1125,Ligung,Majalengka,Jawa Barat,Cluster
+3848862,8/31/2023,13:04:16,-6.69061422,107.9625778,8,noaa20,1125,Buahdua,Sumedang,Jawa Barat,Cluster
+3848863,8/31/2023,13:04:16,-6.63282776,108.0020828,8,noaa20,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3848864,8/31/2023,13:04:16,-6.591171265,108.0992317,8,noaa20,1280,Kertajati,Majalengka,Jawa Barat,Cluster
+3848866,8/31/2023,13:04:16,-6.60724401,107.8638611,7,noaa20,1125,Surian,Sumedang,Jawa Barat,Cluster
+3848867,8/31/2023,13:04:16,-6.57524633,107.9858246,7,noaa20,1125,Haurgeulis,Indramayu,Jawa Barat,Cluster
+3848868,8/31/2023,13:04:16,-6.57187033,107.8210297,8,noaa20,1125,Cibogo,Subang,Jawa Barat,Cluster
+3848869,8/31/2023,13:04:16,-6.68401146,107.0555344,8,noaa20,1125,Sukaresmi,Cianjur,Jawa Barat,Cluster
+3848872,8/31/2023,13:04:16,-6.5070734,107.8781509,7,noaa20,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3848873,8/31/2023,13:04:16,-6.48207664,107.8594894,8,noaa20,1125,Cipunagara,Subang,Jawa Barat,Cluster
+3848874,8/31/2023,13:04:16,-6.478287455,107.5052109,8,noaa20,1280,Campaka,Purwakarta,Jawa Barat,Cluster
+3848875,8/31/2023,13:04:16,-6.45598412,107.6106033,8,noaa20,1125,Cipeundeuy,Subang,Jawa Barat,Cluster
+3848878,8/31/2023,13:04:16,-6.49093723,106.6425552,8,noaa20,1125,Rumpin,Bogor,Jawa Barat,Cluster
+3848879,8/31/2023,13:04:16,-6.38883495,107.2152481,7,noaa20,1125,Cikarang Pusat,Bekasi,Jawa Barat,Cluster
+3848880,8/31/2023,13:04:16,-6.29378724,107.2637558,8,noaa20,1280,Telukjambe Timur,Karawang,Jawa Barat,Cluster
+3848881,8/31/2023,13:04:16,-6.14836359,107.0625305,8,noaa20,1125,Sukawangi,Bekasi,Jawa Barat,Cluster
+3850059,8/31/2023,13:58:19,-6.96355009,106.9924622,8,snpp,1125,Gegerbitung,Sukabumi,Jawa Barat,Cluster
+3850060,8/31/2023,13:58:19,-6.584208965,108.2370186,9,snpp,1280,Jati Tujuh,Majalengka,Jawa Barat,Cluster
+3850061,8/31/2023,13:58:19,-6.58840752,108.1040039,7,snpp,1125,Kertajati,Majalengka,Jawa Barat,Cluster
+3850062,8/31/2023,13:58:19,-6.55524969,108.0795746,9,snpp,1125,Terisi,Indramayu,Jawa Barat,Cluster
+3850063,8/31/2023,13:58:19,-6.58563471,107.4390259,8,snpp,1125,Jatiluhur,Purwakarta,Jawa Barat,Cluster
+3850064,8/31/2023,13:58:19,-6.477679255,107.507637,8,snpp,1280,Campaka,Purwakarta,Jawa Barat,Cluster
+3850065,8/31/2023,13:58:19,-6.29387188,107.2668915,8,snpp,1125,Telukjambe Timur,Karawang,Jawa Barat,Cluster
